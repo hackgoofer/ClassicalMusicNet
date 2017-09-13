@@ -1,0 +1,2 @@
+py-midi #python-midi is 2.7 only.
+numpy
