@@ -1,2 +1,8 @@
+# these were NOT generated with pip freeze > requirements.txt
+# this list intended to be only the req for this project, not including more general requirements you may already have
+tensorflow
 py-midi #python-midi is 2.7 only.
 numpy
+panda
+msgpack-python
+tqdm
