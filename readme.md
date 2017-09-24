@@ -9,6 +9,7 @@ Let's define the problem space -
    * Architecture: Sequence to Sequence generation with Deep RNN and RBM
    
 Goal: output unique net-generated music piece of classical piano music.
+
 Optional: I wonder how well will GAN perform on this.
 
 
