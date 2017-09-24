@@ -13,6 +13,9 @@ Optional: I wonder how well will GAN perform on this.
 
 
 =================
+
+
+
 Using:
 	[ ✓ ] TensorFlow	
 	[ x ] WaveNet (not using currently beacuse the examples are all text-to-speech)
