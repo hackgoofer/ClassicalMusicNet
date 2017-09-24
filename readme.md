@@ -2,8 +2,8 @@
 
 Let's define the problem space - 
    * Dataset: 
-    * We should find dataset that's classical music (ideally for a specific instrument - i.e., piano)
-    * http://piano-midi.de/midicoll.htm
+     * We should find dataset that's classical music (ideally for a specific instrument - i.e., piano)
+     * http://piano-midi.de/midicoll.htm
    
    * Framwork: Tensorflow (working off of wavenet implementation)
    * Architecture: Sequence to Sequence generation with Deep RNN and RBM
