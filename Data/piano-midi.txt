@@ -1,0 +1,3369 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/DTD/html4-transitional.dtd"><html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<meta name="author" content="Bernd Krueger">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<title>Classical Piano Midi Page
+-
+MP3 Files</title>
+<style type="text/css">
+body {font-family:Verdana; color:black; background:white; font-size:101%;}
+p {font-size:80%;}
+h1 { font-size:120%;}
+h1.head { font-size:104%; font-weight:normal; color:white;                                    background-color:#0088BB; margin-bottom:0px; margin-top:0px; width: 100%;
+          border: none; text-align: center; padding:1px;}
+h2 { font-size:100%;color:#999999;}
+h3 { font-size:84%; }
+table.midi { font-size:80%; width: 100%; }
+tr.midi {background-color:#EEEEEE;}
+th.midi {padding-left: 5px; padding-right: 5px; }
+td.midi {padding-left: 5px; padding-right: 5px; valign="top"; }
+.menu {font-size: 80%; }
+.top {font-size: 80%; }
+.navileft {font-size: 80%; margin-left:10px; margin-right:10px; padding:5px;   background-color:#EEEEEE; border:none; }
+.navitop {font-size: 80%; }
+.signatur {font-size: 70%; }
+.content {font-size:80%;}
+
+/* Navigation */
+a.navi:link {text-decoration:none; color:black; background-color:transparent}
+a.navi:visited {text-decoration:none; color:black; background-color:transparent}
+a.navi:hover {text-decoration:underline; color:#0000FF; background-color:transparent}
+a.navi:active {text-decoration:underline; color:#900B09; background-color:transparent}
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+/* verhindert, daß die Seite in einem fremden Frame geladen wird */
+if(top!=self)
+  top.location=self.location;
+//-->
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</head>
+<body>
+<table cellpadding="5" width="100%" cellspacing="0"><tr><td></td><td><div align="center"><img src="graphik/pianomid.jpg" width="318" height="60" border="0" alt="Classical Piano Midi Page"></div><br>
+</td></tr><tr><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><a href="midi_files.htm" class="
+   navi
+   " title="MIDI Files"><strong>MIDI Files</strong></a><br>
+<a href="albeniz.htm" class="
+   navi
+   " title="Albéniz Midi and Audio Files">Albéniz</a><br>
+<a href="bach.htm" class="
+   navi
+   " title="Bach Midi and Audio Files">Bach</a><br>
+<a href="balak.htm" class="
+   navi
+   " title="Balakirew Midi and Audio Files">Balakirew</a><br>
+<a href="beeth.htm" class="
+   navi
+   " title="Beethoven Midi and Audio Files">Beethoven</a><br>
+<a href="borodin.htm" class="
+   navi
+   " title="Borodin Midi and Audio Files">Borodin</a><br>
+<a href="brahms.htm" class="
+   navi
+   " title="Brahms Midi and Audio Files">Brahms</a><br>
+<a href="burgm.htm" class="
+   navi
+   " title="Burgmueller Midi and Audio Files">Burgmueller</a><br>
+<a href="chopin.htm" class="
+   navi
+   " title="Chopin Midi and Audio Files">Chopin</a><br>
+<a href="clementi.htm" class="
+   navi
+   " title="Clementi Midi and Audio Files">Clementi</a><br>
+<a href="debuss.htm" class="
+   navi
+   " title="Debussy Midi and Audio Files">Debussy</a><br>
+<a href="godowsky.htm" class="
+   navi
+   " title="Godowsky Midi and Audio Files">Godowsky</a><br>
+<a href="grana.htm" class="
+   navi
+   " title="Granados Midi and Audio Files">Granados</a><br>
+<a href="grieg.htm" class="
+   navi
+   " title="Grieg Midi and Audio Files">Grieg</a><br>
+<a href="haydn.htm" class="
+   navi
+   " title="Haydn Midi and Audio Files">Haydn</a><br>
+<a href="liszt.htm" class="
+   navi
+   " title="Liszt Midi and Audio Files">Liszt</a><br>
+<a href="mendelssohn.htm" class="
+   navi
+   " title="Mendelssohn Midi and Audio Files">Mendelssohn</a><br>
+<a href="moszkowski.htm" class="
+   navi
+   " title="Moszkowski Midi and Audio Files">Moszkowski</a><br>
+<a href="mozart.htm" class="
+   navi
+   " title="Mozart Midi and Audio Files">Mozart</a><br>
+<a href="muss.htm" class="
+   navi
+   " title="Mussorgsky Midi and Audio Files">Mussorgsky</a><br>
+<a href="rach.htm" class="
+   navi
+   " title="Rachmaninov Midi and Audio Files">Rachmaninov</a><br>
+<a href="ravel.htm" class="
+   navi
+   " title="Ravel Midi and Audio Files">Ravel</a><br>
+<a href="schub.htm" class="
+   navi
+   " title="Schubert Midi and Audio Files">Schubert</a><br>
+<a href="schum.htm" class="
+   navi
+   " title="Schumann Midi and Audio Files">Schumann</a><br>
+<a href="sinding.htm" class="
+   navi
+   " title="Sinding Midi and Audio Files">Sinding</a><br>
+<a href="tschai.htm" class="
+   navi
+   " title="Tchaikovsky Midi and Audio Files">Tchaikovsky</a><br>
+<br><a href="other.htm" class="
+   navi
+   " title="Audio formats"><strong>Audio formats</strong></a><br>
+<br><a href="about.htm" class="
+   navi
+   " title="About"><strong>About</strong></a><br><br></div><br><div style="text-align: center"><form method="post" action="http://piano-midi.de/cgi-bin/search.cgi" onsubmit="searchword()"><input type="text" name="Terms" size="10" value=""><br><input type="submit" value=" Search " size="1" style="font-family: arial; font-size:11px;"></form></div></td><td valign="top"><a name="mp3"></a><h1 class="head">MP3 Files</h1>
+<div class="navitop"><a href="midicoll.htm">Main Page</a>
+ &gt;
+<a href="other.htm">Audio formats</a>
+ &gt;
+MP3 Files</div><br><div class="menu"><a href="#albeniz">Albéniz</a>
+ |
+ <a href="#bach">Bach</a>
+ |
+ <a href="#balak">Balakirew</a>
+ |
+ <a href="#beethoven">Beethoven</a>
+ |
+ <a href="#borodin">Borodin</a>
+ |
+ <a href="#brahms">Brahms</a>
+ |
+ <a href="#burg">Burgmueller</a>
+ |
+ <a href="#chopin">Chopin</a>
+ |
+ <a href="#clementi">Clementi</a>
+ |
+ <a href="#debussy">Debussy</a>
+ |
+ <a href="#godowsky">Godowsky</a>
+ |
+ <a href="#granados">Granados</a>
+ |
+ <a href="#grieg">Grieg</a>
+ |
+ <a href="#haydn">Haydn</a>
+ |
+ <a href="#liszt">Liszt</a>
+ |
+ <a href="#mendelssohn">Mendelssohn</a>
+ |
+ <a href="#moszkowski">Moszkowski</a>
+ |
+ <a href="#mozart">Mozart</a>
+ |
+ <a href="#mussorgsky">Mussorgsky</a>
+ |
+ <a href="#rachmani">Rachmaninov</a>
+ |
+ <a href="#ravel">Ravel</a>
+ |
+ <a href="#schubert">Schubert</a>
+ |
+ <a href="#schumann">Schumann</a>
+ |
+ <a href="#sinding">Sinding</a>
+ |
+ <a href="#tschai">Tchaikovsky</a></div><p>
+Most of my Midi Files are available in MP3. The Midi sequences are played on a digital piano (Roland HP 330e) and recorded via an audio interface.The recording is made with 44,1 Hz and 128 kBit/s. Some of them are played on the virtual piano <a href="http://www.pianoteq.com/">Pianoteq</a> .
+<br><br>
+Use the right mouse click to save a MP3 file. Please read the <a href="copy.htm">copyright notice</a> before using the MP3 files.
+</p>
+<a name="albeniz"></a>
+<h2>Albéniz, Isaac
+(1860-1909)
+</h2>
+<h3>España, Opus 165</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=4e78dc57e823d6e2406f33faa82e3bd7&amp;file=alb_esp1.mp3">Prélude</a></td>
+<td class="midi">Andantino</td>
+<td class="midi" nowrap>1:36</td>
+<td class="midi" nowrap>2010-09-01</td>
+<td nowrap>1.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b6e7b6151110f8c0427014fa52bd689b&amp;file=alb_esp2.mp3">Tango</a></td>
+<td class="midi">Andantino</td>
+<td class="midi" nowrap>2:08</td>
+<td class="midi" nowrap>2010-09-01</td>
+<td nowrap>2.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=fe844de5de90849e339b047f99b72248&amp;file=alb_esp3.mp3">Malagueña</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>2:56</td>
+<td class="midi" nowrap>2010-09-01</td>
+<td nowrap>2.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d6476733f6b0c37102e712691674e17e&amp;file=alb_esp4.mp3">Serenata</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>3:14</td>
+<td class="midi" nowrap>2010-09-01</td>
+<td nowrap>3.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=be1bd4e741c2cdf0e85b0b973985f079&amp;file=alb_esp5.mp3">Capricho Catalan</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>2:03</td>
+<td class="midi" nowrap>2010-09-01</td>
+<td nowrap>1.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b25d79d6ac3e9b4bb35ec320da08d35a&amp;file=alb_esp6.mp3">Zortzico</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>2:35</td>
+<td class="midi" nowrap>2010-08-31</td>
+<td nowrap>2.4 MB</td>
+</tr>
+</table>
+<h3>Suite española</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=14be2cb87b029897acfcec19e89358d8&amp;file=alb_se1.mp3">Granada</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>4:01</td>
+<td class="midi" nowrap>2010-09-05</td>
+<td nowrap>3.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a923b39d6ddffddd547d354893e56cbe&amp;file=alb_se2.mp3">Cataluña (Curranda)</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>3:59</td>
+<td class="midi" nowrap>2010-09-05</td>
+<td nowrap>3.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b00bb57713ac71a23a8da94c2ccc4125&amp;file=alb_se3.mp3">Sevilla</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>4:11</td>
+<td class="midi" nowrap>2010-09-07</td>
+<td nowrap>3.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=fbe6090ebfd953e7197f6f1ecddf66b8&amp;file=alb_se4.mp3">Cádiz (Saeta)</a></td>
+<td class="midi">Allegretto, ma non troppo</td>
+<td class="midi" nowrap>3:40</td>
+<td class="midi" nowrap>2010-09-11</td>
+<td nowrap>3.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=50ec6bb5b755ca28e86990aadabc862e&amp;file=alb_se5.mp3">Asturias (Leyenda)</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>5:04</td>
+<td class="midi" nowrap>2010-09-14</td>
+<td nowrap>4.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a32ee15dbdeb64b2e9d9b5cae3d7f9ac&amp;file=alb_se6.mp3">Aragon (Fantasia)</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>4:02</td>
+<td class="midi" nowrap>2010-09-16</td>
+<td nowrap>3.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=c5c57099f57c2cdbd07994659711db91&amp;file=alb_se7.mp3">Castilla (Seguidillas)</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>2:35</td>
+<td class="midi" nowrap>2010-09-19</td>
+<td nowrap>2.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8f612d9d08bf6557f11b78ce780a3a63&amp;file=alb_se8.mp3">Cuba (Notturno)</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>4:30</td>
+<td class="midi" nowrap>2010-09-23</td>
+<td nowrap>4.2 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="bach"></a>
+<h2>Bach, Johann Sebastian
+(1685-1750)
+</h2>
+<h3>The Well-Tempered Clavier Part I, BWV 846-869</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ee8723a4db0d5424f4c0de3dae17d12a&amp;file=bach_846.mp3">Prelude and Fugue in C major BWV 846</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>3:46</td>
+<td class="midi" nowrap>2004-09-25</td>
+<td nowrap>3.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f742a3dd01c7ba7aa9a6426ed7b1b7d7&amp;file=bach_847.mp3">Prelude and Fugue in C minor BWV 847</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>3:09</td>
+<td class="midi" nowrap>2004-09-30</td>
+<td nowrap>2.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a14edba6b4f7fa98bfa602972c7f7a7f&amp;file=bach_850.mp3">Prelude and Fugue in D major BWV 850</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>2:53</td>
+<td class="midi" nowrap>2004-09-29</td>
+<td nowrap>2.7 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="balak"></a>
+<h2>Balakirew, Mili Alexejewitsch
+(1837-1910)
+</h2>
+<h3>Islamej
+(Oriental fantasia)
+</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a4a09bf809a27d6cbc0c738a83026f95&amp;file=islamei.mp3">Islamej</a></td>
+<td class="midi">Presto con fuoco</td>
+<td class="midi" nowrap>8:18</td>
+<td class="midi" nowrap>2014-07-02</td>
+<td nowrap>11.4 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="beethoven"></a>
+<h2>Beethoven, Ludwig van
+(1770-1827)
+</h2>
+<h3>Sonata No. 5 C minor, Opus 10/1</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=529cf2b9949d9080f671230251e0f818&amp;file=beethoven_opus10_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro molto e con brio</td>
+<td class="midi" nowrap>6:31</td>
+<td class="midi" nowrap>2012-05-02</td>
+<td nowrap>6.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6ea54c4c6300234b15ea8839c44b687c&amp;file=beethoven_opus10_2.mp3">2. Movement</a></td>
+<td class="midi">Adagio molto</td>
+<td class="midi" nowrap>6:32</td>
+<td class="midi" nowrap>2012-05-06</td>
+<td nowrap>6.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a8a2fa7d9cbf3006d456289f188b75e8&amp;file=beethoven_opus10_3.mp3">3. Movement</a></td>
+<td class="midi">Prestissimo</td>
+<td class="midi" nowrap>3:37</td>
+<td class="midi" nowrap>2012-05-09</td>
+<td nowrap>3.3 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 8 C minor
+(Pathetique)
+, Opus 13</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=4f94d0a28b979c61eba3843dfc92ad74&amp;file=pathetique_1.mp3">1. Movement</a></td>
+<td class="midi">Grave - Allegro di molto e con brio</td>
+<td class="midi" nowrap>9:22</td>
+<td class="midi" nowrap>2012-05-15</td>
+<td nowrap>8.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=99c025a8c06cdd93873be2465e0cef75&amp;file=pathetique_2.mp3">2. Movement</a></td>
+<td class="midi">Adagio cantabile</td>
+<td class="midi" nowrap>5:12</td>
+<td class="midi" nowrap>2012-05-21</td>
+<td nowrap>4.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=374de37e8c69bdff414bd532cc518559&amp;file=pathetique_3.mp3">3. Movement</a></td>
+<td class="midi">Rondo allegro</td>
+<td class="midi" nowrap>4:19</td>
+<td class="midi" nowrap>2012-05-21</td>
+<td nowrap>4.0 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 11 Bb major, Opus 22</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8f726ade6d56a7d633af1e5fabbd9a1a&amp;file=beethoven_opus22_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro con brio</td>
+<td class="midi" nowrap>6:39</td>
+<td class="midi" nowrap>2012-05-27</td>
+<td nowrap>6.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a70826824914e8ad4e775e77837a2d1d&amp;file=beethoven_opus22_2.mp3">2. Movement</a></td>
+<td class="midi">Adagio con molta espressione</td>
+<td class="midi" nowrap>5:21</td>
+<td class="midi" nowrap>2012-05-31</td>
+<td nowrap>4.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e8cefc3cc420c4db7019b11181e6c812&amp;file=beethoven_opus22_3.mp3">3. Movement</a></td>
+<td class="midi">Minuetto</td>
+<td class="midi" nowrap>3:03</td>
+<td class="midi" nowrap>2012-05-29</td>
+<td nowrap>2.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=9c9defcd162a7f6af009c22dd2152228&amp;file=beethoven_opus22_4.mp3">4. Movement</a></td>
+<td class="midi">Rondo-Allegretto</td>
+<td class="midi" nowrap>4:42</td>
+<td class="midi" nowrap>2012-05-31</td>
+<td nowrap>4.4 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 14 C# minor
+(Moonlight)
+, Opus 27/2</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ec53202ff451a2f2392a529b63add98b&amp;file=mond_1.mp3">1. Movement</a></td>
+<td class="midi">Adagio sostenuto</td>
+<td class="midi" nowrap>6:02</td>
+<td class="midi" nowrap>2012-06-03</td>
+<td nowrap>5.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e128cacdec8a4867855d566cd3d5dac2&amp;file=mond_2.mp3">2. Movement</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>2:04</td>
+<td class="midi" nowrap>2012-06-05</td>
+<td nowrap>1.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1bf3c24d7be49f39486568de2a9a5455&amp;file=mond_3.mp3">3. Movement</a></td>
+<td class="midi">Presto agitato</td>
+<td class="midi" nowrap>6:50</td>
+<td class="midi" nowrap>2012-06-14</td>
+<td nowrap>6.3 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 21 C major
+(Waldstein)
+, Opus 53</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=5559a01a069e8cb83e556189557db2a9&amp;file=waldstein_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro con brio</td>
+<td class="midi" nowrap>10:21</td>
+<td class="midi" nowrap>2012-06-23</td>
+<td nowrap>9.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=4f9470eca6f871b0d679520703796cf2&amp;file=waldstein_2.mp3">2. Movement</a></td>
+<td class="midi">Adagio molto</td>
+<td class="midi" nowrap>4:09</td>
+<td class="midi" nowrap>2012-06-25</td>
+<td nowrap>3.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=33781965c49530de24efb5bdad2e92e3&amp;file=waldstein_3.mp3">3. Movement</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>9:42</td>
+<td class="midi" nowrap>2012-07-11</td>
+<td nowrap>8.9 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 23 F minor
+(Appassionata)
+, Opus 57</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=3222d2b0c6198de5dde00c11f9c7f030&amp;file=appass_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro assai</td>
+<td class="midi" nowrap>9:22</td>
+<td class="midi" nowrap>2012-07-21</td>
+<td nowrap>8.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a8731bad39b6dd6aa2158e92b4bc587a&amp;file=appass_2.mp3">2. Movement</a></td>
+<td class="midi">Andante con moto</td>
+<td class="midi" nowrap>6:13</td>
+<td class="midi" nowrap>2012-07-25</td>
+<td nowrap>5.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=36d3ffeb0f778a601553e42de81d4536&amp;file=appass_3.mp3">3. Movement</a></td>
+<td class="midi">Allegro ma non troppo</td>
+<td class="midi" nowrap>7:48</td>
+<td class="midi" nowrap>2012-07-30</td>
+<td nowrap>7.2 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 26 Eb major
+(Les Adieux)
+, Opus 81a</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6e1bfab856be44c3028653401eeddbc1&amp;file=beethoven_les_adieux_1.mp3">1. Movement</a></td>
+<td class="midi">Adagio</td>
+<td class="midi" nowrap>5:42</td>
+<td class="midi" nowrap>2012-08-06</td>
+<td nowrap>5.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=3c8cb8e70700c69ebccea419eeeafcae&amp;file=beethoven_les_adieux_2.mp3">2. Movement</a></td>
+<td class="midi">Andante espressivo</td>
+<td class="midi" nowrap>2:54</td>
+<td class="midi" nowrap>2012-08-07</td>
+<td nowrap>2.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e39a66122f01268367bebb087e2ecf56&amp;file=beethoven_les_adieux_3.mp3">3. Movement</a></td>
+<td class="midi">Vivacissimamente</td>
+<td class="midi" nowrap>5:00</td>
+<td class="midi" nowrap>1012-08-09</td>
+<td nowrap>4.6 MB</td>
+</tr>
+</table>
+<h3>For Elise</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=2103a9f3ad8dac2eefa3c4b0b7d8528b&amp;file=elise.mp3">For Elise</a></td>
+<td class="midi">Poco moto</td>
+<td class="midi" nowrap>3:48</td>
+<td class="midi" nowrap>2012-08-30</td>
+<td nowrap>2.6 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 27 E minor, Opus 90</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b74dbcdec3f6d558d6475d715f56db73&amp;file=beethoven_opus90_1.mp3">1. Movement</a></td>
+<td class="midi">Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck</td>
+<td class="midi" nowrap>4:53</td>
+<td class="midi" nowrap>2014-02-05</td>
+<td nowrap>4.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f03e9e40a680d500cec5bb115781d863&amp;file=beethoven_opus90_2.mp3">2. Movement</a></td>
+<td class="midi">Nicht zu geschwind und sehr singbar vorgetragen</td>
+<td class="midi" nowrap>8:14</td>
+<td class="midi" nowrap>2014-02-28</td>
+<td nowrap>4.5 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 29 Bb major
+(Hammerklavier)
+, Opus 106</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=bc397b4c308754859dd494a1be01ea6a&amp;file=beethoven_hammerklavier_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>9:53</td>
+<td class="midi" nowrap>2012-08-15</td>
+<td nowrap>9.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=9902ad6fe3460e7a0df3bfca4f687e07&amp;file=beethoven_hammerklavier_2.mp3">2. Movement</a></td>
+<td class="midi">Scherzo</td>
+<td class="midi" nowrap>2:15</td>
+<td class="midi" nowrap>2012-08-16</td>
+<td nowrap>2.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=52eae91454088c9ba4628fea0a697d8d&amp;file=beethoven_hammerklavier_3.mp3">3. Movement</a></td>
+<td class="midi">Adagio sostenuto</td>
+<td class="midi" nowrap>12:44</td>
+<td class="midi" nowrap>2012-08-22</td>
+<td nowrap>11.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=244b09a2e26cc0c175e15652b6b3a533&amp;file=beethoven_hammerklavier_4.mp3">4. Movement</a></td>
+<td class="midi">Largo - Allegro</td>
+<td class="midi" nowrap>10:43</td>
+<td class="midi" nowrap>2012-08-28</td>
+<td nowrap>9.9 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="borodin"></a>
+<h2>Borodin, Alexander
+(1833-1887)
+</h2>
+<h3>Petite Suite</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=9b6b1c8e9e5923648f524586fedf1e97&amp;file=bor_ps1.mp3">In the monastery</a></td>
+<td class="midi">Andante religioso</td>
+<td class="midi" nowrap>4:21</td>
+<td class="midi" nowrap>2000-10-03</td>
+<td nowrap>4.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=4995be84b1ca1abfa1cca207d251df5c&amp;file=bor_ps2.mp3">Intermezzo</a></td>
+<td class="midi">Tempo di minuetto</td>
+<td class="midi" nowrap>2:45</td>
+<td class="midi" nowrap>2000-10-03</td>
+<td nowrap>2.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=4ae1b794b6d182fe76e137f80d6a888a&amp;file=bor_ps3.mp3">Mazurka</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>2:40</td>
+<td class="midi" nowrap>2000-10-03</td>
+<td nowrap>2.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=5c43739b5dfb0547699b02a02be41f0b&amp;file=bor_ps4.mp3">Mazurka</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>3:12</td>
+<td class="midi" nowrap>2000-10-03</td>
+<td nowrap>2.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=2794bf9112ef21445b0ed28d97b0a695&amp;file=bor_ps5.mp3">Réverie</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>1:38</td>
+<td class="midi" nowrap>2000-10-03</td>
+<td nowrap>1.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=7831c85b7ce9cd56db86245448577028&amp;file=bor_ps6.mp3">Serenade</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>1:55</td>
+<td class="midi" nowrap>2000-10-03</td>
+<td nowrap>1.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e0a3802fc0849c08f076c8631edd4d2b&amp;file=bor_ps7.mp3">Nocturne</a></td>
+<td class="midi">Andantino</td>
+<td class="midi" nowrap>2:08</td>
+<td class="midi" nowrap>2000-10-03</td>
+<td nowrap>1.9 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="brahms"></a>
+<h2>Brahms, Johannes
+(1833-1897)
+</h2>
+<h3>Sonata C major, Opus 1</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e282cabec345624e82663f20c78659f5&amp;file=brahms_opus1_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>11:29</td>
+<td class="midi" nowrap>2010-11-06</td>
+<td nowrap>10.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=25b020ee47e3e0724c851763312813c7&amp;file=brahms_opus1_2.mp3">2. Movement</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>4:42</td>
+<td class="midi" nowrap>2010-11-06</td>
+<td nowrap>4.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=bc9d3235ca791b854c46f4e0ae3692d7&amp;file=brahms_opus1_3.mp3">3. Movement</a></td>
+<td class="midi">Scherzo</td>
+<td class="midi" nowrap>6:22</td>
+<td class="midi" nowrap>2010-11-06</td>
+<td nowrap>5.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=9893299c684ecae94b469b250fbb51a4&amp;file=brahms_opus1_4.mp3">4. Movement</a></td>
+<td class="midi">Finale - Allegro con fuoco</td>
+<td class="midi" nowrap>6:56</td>
+<td class="midi" nowrap>2010-11-06</td>
+<td nowrap>6.4 MB</td>
+</tr>
+</table>
+<h3>7 Fantasia, Opus 116</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=2de3ab5f5061df6d7e06ea9892ad9ea0&amp;file=br_im2.mp3">No. 2 - Intermezzo</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>2:43</td>
+<td class="midi" nowrap>2010-10-28</td>
+<td nowrap>2.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=57d9733c5ee8862213516a9cea646042&amp;file=br_im5.mp3">No. 5 - Intermezzo</a></td>
+<td class="midi">Andante con grazia ed intimissomo sentimento</td>
+<td class="midi" nowrap>2:55</td>
+<td class="midi" nowrap>2010-10-31</td>
+<td nowrap>2.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=5d3bd54d580e203181bd7149b0566d3b&amp;file=br_im6.mp3">No. 6 - Intermezzo</a></td>
+<td class="midi">Andantino teneramente</td>
+<td class="midi" nowrap>2:23</td>
+<td class="midi" nowrap>2010-10-31</td>
+<td nowrap>2.2 MB</td>
+</tr>
+</table>
+<h3>3 Intermezzi, Opus 117</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=216a0836a7d9adca9d29a9681251f372&amp;file=brahms_opus117_1.mp3">No. 1</a></td>
+<td class="midi">Andante moderato</td>
+<td class="midi" nowrap>4:39</td>
+<td class="midi" nowrap>2010-10-09</td>
+<td nowrap>4.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a02e4592fc5c835deb852670e12db69b&amp;file=brahms_opus117_2.mp3">No. 2</a></td>
+<td class="midi">Andante moderato</td>
+<td class="midi" nowrap>3:37</td>
+<td class="midi" nowrap>2010-10-26</td>
+<td nowrap>3.5 MB</td>
+</tr>
+</table>
+<h3>4 Piano pieces, Opus 119</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=72c9b6cd7f7917b1136a926c33f8b5fb&amp;file=br_rhap.mp3">Rhapsodie</a></td>
+<td class="midi">Allegro risoluto</td>
+<td class="midi" nowrap>4:58</td>
+<td class="midi" nowrap>2010-11-04</td>
+<td nowrap>4.5 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="burg"></a>
+<h2>Burgmueller, Friedrich
+(1806-1874)
+</h2>
+<h3>Etudes, Opus 109</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=bb44f10ac99b58f8962d14c0f59a30e6&amp;file=burg_perlen.mp3">The pearls</a></td>
+<td class="midi">Moderato</td>
+<td class="midi" nowrap>1:27</td>
+<td class="midi" nowrap>2012-03-03</td>
+<td nowrap>1.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=0d44d71d2ede5bfd5b5a05eb3f1a0cfb&amp;file=burg_quelle.mp3">The Fountain</a></td>
+<td class="midi">Andante grazioso</td>
+<td class="midi" nowrap>1:53</td>
+<td class="midi" nowrap>2012-03-04</td>
+<td nowrap>1.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=fb2eafb8526eeaa6aebda9b7c6f998c6&amp;file=burg_agitato.mp3">Agitato</a></td>
+<td class="midi">Allegro vivace</td>
+<td class="midi" nowrap>1:33</td>
+<td class="midi" nowrap>2012-03-22</td>
+<td nowrap>1.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=14ca4d15013f77584cfac0d461502782&amp;file=burg_geschwindigkeit.mp3">Velocity</a></td>
+<td class="midi">Vivo</td>
+<td class="midi" nowrap>1:10</td>
+<td class="midi" nowrap>2012-04-22</td>
+<td nowrap>1.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8623c2aaab77c252a03ae4c3ba01ef16&amp;file=burg_erwachen.mp3">Awaking in the woods</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>1:21</td>
+<td class="midi" nowrap>2012-03-13</td>
+<td nowrap>1.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=9ad523f5da38e49470fba7b928566993&amp;file=burg_gewitter.mp3">Thunderstorm</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>1:20</td>
+<td class="midi" nowrap>2012-03-14</td>
+<td nowrap>1.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=bb806ed4ae0b259d5b556335cb1ef757&amp;file=burg_sylphen.mp3">The sylphs</a></td>
+<td class="midi">Vivo</td>
+<td class="midi" nowrap>1:30</td>
+<td class="midi" nowrap>2012-04-05</td>
+<td nowrap>1.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=12e7e9d446b6e7d016967fb8f5985182&amp;file=burg_trennung.mp3">Separation</a></td>
+<td class="midi">Allegro vivace</td>
+<td class="midi" nowrap>1:19</td>
+<td class="midi" nowrap>2012-03-28</td>
+<td nowrap>1.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1763fdf5319f68747441960489622c92&amp;file=burg_spinnerlied.mp3">Spinning Song</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>1:45</td>
+<td class="midi" nowrap>2012-04-16</td>
+<td nowrap>1.6 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="chopin"></a>
+<h2>Chopin, Frédéric
+(1810-1849)
+</h2>
+<h3>5 Mazurkas, Opus 7</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=18a8fcd9ff47e53fde82e325b9c7b4de&amp;file=chpn_op7_1.mp3">No. 1</a></td>
+<td class="midi">Vivace</td>
+<td class="midi" nowrap>2:17</td>
+<td class="midi" nowrap>2014-05-02</td>
+<td nowrap>3.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6d9a0cfc4e3c6ced6689177f6d241857&amp;file=chpn_op7_2.mp3">No. 2</a></td>
+<td class="midi">Vivo ma non troppo</td>
+<td class="midi" nowrap>2:42</td>
+<td class="midi" nowrap>2014-05-02</td>
+<td nowrap>3.8 MB</td>
+</tr>
+</table>
+<h3>Etudes, Opus 10</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=9ccd82cc1b70ca24fd9d0bfd39699fa6&amp;file=chpn_op10_e01.mp3">No. 1</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>1:50</td>
+<td class="midi" nowrap>2014-05-03</td>
+<td nowrap>2.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=4b0d814e5f34b32f5dfa28d41b58e737&amp;file=chpn_op10_e05.mp3">No. 5 - Black Key</a></td>
+<td class="midi">Vivace</td>
+<td class="midi" nowrap>1:31</td>
+<td class="midi" nowrap>2014-05-03</td>
+<td nowrap>2.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6b2f83dcb88a11a8083c305976aa3382&amp;file=chpn_op10_e12.mp3">No. 12 - Revolutionary</a></td>
+<td class="midi">Allegro con fuoco</td>
+<td class="midi" nowrap>2:18</td>
+<td class="midi" nowrap>2014-05-03</td>
+<td nowrap>3.3 MB</td>
+</tr>
+</table>
+<h3>Grande Valse Brillante, Opus 18</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=63b4eaed8dd6ae54a13fa43097ef7987&amp;file=chp_op18.mp3">Grande Valse Brillante</a></td>
+<td class="midi">Vivo</td>
+<td class="midi" nowrap>5:09</td>
+<td class="midi" nowrap>2014-05-04</td>
+<td nowrap>7.2 MB</td>
+</tr>
+</table>
+<h3>Ballade G minor, Opus 23</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b2daba1d15832c5fcb28556ad767b217&amp;file=chpn_op23.mp3">Ballade</a></td>
+<td class="midi">Largo - Moderato</td>
+<td class="midi" nowrap>9:02</td>
+<td class="midi" nowrap>2014-05-05</td>
+<td nowrap>12.3 MB</td>
+</tr>
+</table>
+<h3>Etudes, Opus 25</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a43c32798c289ff6b9286b7eabd88d51&amp;file=chpn_op25_e1.mp3">No. 1 - Harp etude</a></td>
+<td class="midi">Allegro sostenuto</td>
+<td class="midi" nowrap>2:08</td>
+<td class="midi" nowrap>2014-05-08</td>
+<td nowrap>2.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ce7d85bacc4571d1b8b1ade87b47c9e9&amp;file=chpn_op25_e2.mp3">No. 2</a></td>
+<td class="midi">Presto</td>
+<td class="midi" nowrap>1:31</td>
+<td class="midi" nowrap>2014-05-08</td>
+<td nowrap>2.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=3ba64248530ed74eefe889167e0d8bde&amp;file=chpn_op25_e3.mp3">No. 3</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>1:47</td>
+<td class="midi" nowrap>2014-10-05</td>
+<td nowrap>2.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=170247785c9d72cd8d09c302c6e4f8f9&amp;file=chpn_op25_e4.mp3">No. 4</a></td>
+<td class="midi">Agitato</td>
+<td class="midi" nowrap>1:26</td>
+<td class="midi" nowrap>2014-05-10</td>
+<td nowrap>1.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d93923ec1a9c9e0d99dd02c9d8aa9ec5&amp;file=chpn_op25_e11.mp3">No. 11 - Winter Wind</a></td>
+<td class="midi">Lento - Allegro con brio</td>
+<td class="midi" nowrap>3:06</td>
+<td class="midi" nowrap>2014-05-10</td>
+<td nowrap>4.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=96d36af51a870e4f28d5931186c80487&amp;file=chpn_op25_e12.mp3">No. 12</a></td>
+<td class="midi">Allegro molto con fuoco</td>
+<td class="midi" nowrap>2:19</td>
+<td class="midi" nowrap>2010-05-10</td>
+<td nowrap>3.2 MB</td>
+</tr>
+</table>
+<h3>2 Nocturnes, Opus 27</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f0db8ea65ab498442bbaab558d5766f0&amp;file=chpn_op27_1.mp3">No. 1</a></td>
+<td class="midi">Larghetto</td>
+<td class="midi" nowrap>4:52</td>
+<td class="midi" nowrap>2014-05-13</td>
+<td nowrap>6.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a4a4a64d1615b7a68069e3dfc023b63e&amp;file=chpn_op27_2.mp3">No. 2</a></td>
+<td class="midi">Lento sostenuto</td>
+<td class="midi" nowrap>5:13</td>
+<td class="midi" nowrap>2014-05-13</td>
+<td nowrap>7.1 MB</td>
+</tr>
+</table>
+<h3>Préludes, Opus 28</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ae1c26e489866ad1452b23e457be2494&amp;file=chpn-p1.mp3">No. 1</a></td>
+<td class="midi">Agitato</td>
+<td class="midi" nowrap>0:34</td>
+<td class="midi" nowrap>2014-05-14</td>
+<td nowrap>0.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1109d54dc80c1eeeb174f8cf4f32b6d9&amp;file=chpn-p2.mp3">No. 2</a></td>
+<td class="midi">Lento</td>
+<td class="midi" nowrap>1:59</td>
+<td class="midi" nowrap>2014-05-14</td>
+<td nowrap>2.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=fa10b6d9b31455c51b226415de2c24fe&amp;file=chpn-p3.mp3">No. 3</a></td>
+<td class="midi">Vivace</td>
+<td class="midi" nowrap>0:43</td>
+<td class="midi" nowrap>2014-05-14</td>
+<td nowrap>1.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=33be087def31cc295f1936341bcf07f0&amp;file=chpn-p4.mp3">No. 4</a></td>
+<td class="midi">Largo</td>
+<td class="midi" nowrap>1:45</td>
+<td class="midi" nowrap>2014-05-14</td>
+<td nowrap>2.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=2de2712249c6d5931bbb5a26e3758406&amp;file=chpn-p5.mp3">No. 5</a></td>
+<td class="midi">Molto allegro</td>
+<td class="midi" nowrap>0:33</td>
+<td class="midi" nowrap>2014-05-14</td>
+<td nowrap>0.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=55e2c7a974dcdcb3031c9d9e0e81017f&amp;file=chpn-p6.mp3">No. 6</a></td>
+<td class="midi">Assai lento</td>
+<td class="midi" nowrap>1:38</td>
+<td class="midi" nowrap>2014-05-14</td>
+<td nowrap>2.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=15f8d4e8a3f018a686436e7dd1e75c0a&amp;file=chpn-p7.mp3">No. 7</a></td>
+<td class="midi">Andantino</td>
+<td class="midi" nowrap>0:36</td>
+<td class="midi" nowrap>2014-05-15</td>
+<td nowrap>0.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f67af853376d97ce78ca35db2b818ba7&amp;file=chpn-p8.mp3">No. 8</a></td>
+<td class="midi">Molto agitato</td>
+<td class="midi" nowrap>1:31</td>
+<td class="midi" nowrap>2015-05-15</td>
+<td nowrap>2.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d9f920d21af06bdd402e9f09fad6df67&amp;file=chpn-p9.mp3">No. 9</a></td>
+<td class="midi">Largo</td>
+<td class="midi" nowrap>1:28</td>
+<td class="midi" nowrap>2014-05-15</td>
+<td nowrap>2.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d3024d446239bb36b438b9fab19606c9&amp;file=chpn-p10.mp3">No. 10</a></td>
+<td class="midi">Molto allegro</td>
+<td class="midi" nowrap>0:26</td>
+<td class="midi" nowrap>2014-05-15</td>
+<td nowrap>0.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f8c14629c5da2bc19c7e885f29fafc70&amp;file=chpn-p11.mp3">No. 11</a></td>
+<td class="midi">Vivace</td>
+<td class="midi" nowrap>0:33</td>
+<td class="midi" nowrap>2014-05-15</td>
+<td nowrap>0.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d5da385da2d3aa63ff13ae6284459ecc&amp;file=chpn-p12.mp3">No. 12</a></td>
+<td class="midi">Presto</td>
+<td class="midi" nowrap>0:56</td>
+<td class="midi" nowrap>2014-05-15</td>
+<td nowrap>1.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e52adf73bcd33ee1a8f3c65614a3ec1a&amp;file=chpn-p13.mp3">No. 13</a></td>
+<td class="midi">Lento</td>
+<td class="midi" nowrap>2:34</td>
+<td class="midi" nowrap>2014-05-16</td>
+<td nowrap>3.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1f2194268a8b7c704549cd539a52d57e&amp;file=chpn-p14.mp3">No. 14</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>0:30</td>
+<td class="midi" nowrap>2014-05-16</td>
+<td nowrap>0.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=0b88fd1d4febec8e5ddc2558590522b0&amp;file=chpn-p15.mp3">No. 15 - Raindrop</a></td>
+<td class="midi">Sostenuto</td>
+<td class="midi" nowrap>4:36</td>
+<td class="midi" nowrap>2014-05-16</td>
+<td nowrap>6.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=400c12ef0c21b3c33048282d454c3fcc&amp;file=chpn-p16.mp3">No. 16</a></td>
+<td class="midi">Presto con fuoco</td>
+<td class="midi" nowrap>1:03</td>
+<td class="midi" nowrap>2014-05-16</td>
+<td nowrap>1.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=9066b3a3f1c4d921b6cb1b0857c87746&amp;file=chpn-p17.mp3">No. 17</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>2:42</td>
+<td class="midi" nowrap>2014-05-16</td>
+<td nowrap>3.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f563abb9c3b49015b83599f16eb050e8&amp;file=chpn-p18.mp3">No. 18</a></td>
+<td class="midi">Molto allegro</td>
+<td class="midi" nowrap>0:48</td>
+<td class="midi" nowrap>2014-05-16</td>
+<td nowrap>1.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a879f2e70dbbba30437d8955153a3239&amp;file=chpn-p19.mp3">No. 19</a></td>
+<td class="midi">Vivace</td>
+<td class="midi" nowrap>1:10</td>
+<td class="midi" nowrap>2014-05-17</td>
+<td nowrap>1.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=94264cf66e439c46ee49d8a2ab6b4422&amp;file=chpn-p20.mp3">No. 20</a></td>
+<td class="midi">Largo</td>
+<td class="midi" nowrap>1:30</td>
+<td class="midi" nowrap>2014-05-17</td>
+<td nowrap>2.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e081b7a74596dac1336366cf6e655a2c&amp;file=chpn-p21.mp3">No. 21</a></td>
+<td class="midi">Cantabile</td>
+<td class="midi" nowrap>1:45</td>
+<td class="midi" nowrap>2014-05-17</td>
+<td nowrap>1.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=44a7b58769bfb1e5b84795628eb54994&amp;file=chpn-p22.mp3">No. 22</a></td>
+<td class="midi">Molto agitato</td>
+<td class="midi" nowrap>0:44</td>
+<td class="midi" nowrap>2014-05-17</td>
+<td nowrap>1.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=46bbc4466f62ca32a04292a11bf3e772&amp;file=chpn-p23.mp3">No. 23</a></td>
+<td class="midi">Moderato</td>
+<td class="midi" nowrap>0:54</td>
+<td class="midi" nowrap>2014-05-17</td>
+<td nowrap>1.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=229fbb1d6d99905638ff3407b83074dc&amp;file=chpn-p24.mp3">No. 24</a></td>
+<td class="midi">Allegro appassionato</td>
+<td class="midi" nowrap>2:05</td>
+<td class="midi" nowrap>2014-05-17</td>
+<td nowrap>2.9 MB</td>
+</tr>
+</table>
+<h3>Scherzo Bb minor, Opus 31</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f34f2d4277230bee112e90b40dd2516a&amp;file=chp_op31.mp3">Scherzo</a></td>
+<td class="midi">Presto</td>
+<td class="midi" nowrap>8:37</td>
+<td class="midi" nowrap>2014-05-04</td>
+<td nowrap>11.8 MB</td>
+</tr>
+</table>
+<h3>4 Mazurkas, Opus 33</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=19302b4b2c6630b3ec0e3357638b8173&amp;file=chpn_op33_2.mp3">No. 2</a></td>
+<td class="midi">Vivace</td>
+<td class="midi" nowrap>2:23</td>
+<td class="midi" nowrap>2014-05-19</td>
+<td nowrap>3.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6db8011078b121e4776ecfaf85f1c03d&amp;file=chpn_op33_4.mp3">No. 4</a></td>
+<td class="midi">-</td>
+<td class="midi" nowrap>5:18</td>
+<td class="midi" nowrap>2014-05-19</td>
+<td nowrap>7.3 MB</td>
+</tr>
+</table>
+<h3>Piano sonata No. 2 Bb minor, Opus 35</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=9b31c1fcf104c79b00e06f55d47cd3f7&amp;file=chpn_op35_1.mp3">1. Movement</a></td>
+<td class="midi">Grave - Doppio movimento</td>
+<td class="midi" nowrap>6:35</td>
+<td class="midi" nowrap>2014-05-20</td>
+<td nowrap>9.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=5eb836e8ea07d073155cebf0e2c48438&amp;file=chpn_op35_2.mp3">2. Movement</a></td>
+<td class="midi">Scherzo</td>
+<td class="midi" nowrap>6:35</td>
+<td class="midi" nowrap>2014-05-20</td>
+<td nowrap>9.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=bcb36b5621e75f80e009f9834a6c302c&amp;file=chpn_op35_3.mp3">3. Movement</a></td>
+<td class="midi">Marche funèbre</td>
+<td class="midi" nowrap>7:29</td>
+<td class="midi" nowrap>2014-05-21</td>
+<td nowrap>10.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=265927df6c492f8755cb0979f267bf4f&amp;file=chpn_op35_4.mp3">4. Movement</a></td>
+<td class="midi">Presto</td>
+<td class="midi" nowrap>1:25</td>
+<td class="midi" nowrap>2014-05-21</td>
+<td nowrap>1.9 MB</td>
+</tr>
+</table>
+<h3>Polonaise Ab major, Opus 53</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=3371384a476a67f66f7a548178e9077c&amp;file=chpn_op53.mp3">Polonaise</a></td>
+<td class="midi">Maestoso</td>
+<td class="midi" nowrap>5:55</td>
+<td class="midi" nowrap>2014-05-23</td>
+<td nowrap>8.1 MB</td>
+</tr>
+</table>
+<h3>Fantaisie-Impromptu, Opus 66</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=293ef644a038bf3ebda32afb94d52da7&amp;file=chpn_op66.mp3">Fantaisie-Impromptu</a></td>
+<td class="midi">Allegro agitato</td>
+<td class="midi" nowrap>4:37</td>
+<td class="midi" nowrap>2014-05-23</td>
+<td nowrap>6.3 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="clementi"></a>
+<h2>Clementi, Muzio
+(1752-1832)
+</h2>
+<h3>Sonatina Opus 36 No. 1, Opus 36</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=aa1c7e9d4a59e7d5299de903c7aae44e&amp;file=clementi_opus36_1_1.mp3">1. movement</a></td>
+<td class="midi">Spiritoso</td>
+<td class="midi" nowrap>1:31</td>
+<td class="midi" nowrap>2010-11-13</td>
+<td nowrap>1.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=427770c331d099a124cf3850f8d65946&amp;file=clementi_opus36_1_2.mp3">2. movement</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>1:08</td>
+<td class="midi" nowrap>2010-11-17</td>
+<td nowrap>1.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=06df673143e32b960a986f5c56d2d4c3&amp;file=clementi_opus36_1_3.mp3">3. movement</a></td>
+<td class="midi">Vivace</td>
+<td class="midi" nowrap>0:56</td>
+<td class="midi" nowrap>2010-11-21</td>
+<td nowrap>0.9 MB</td>
+</tr>
+</table>
+<h3>Sonatina Opus 36 No. 2, Opus 36</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b98014e0aa7ca0579ade1e8e4b601de4&amp;file=clementi_opus36_2_1.mp3">1. movement</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>2:00</td>
+<td class="midi" nowrap>2010-11-25</td>
+<td nowrap>1.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=adcb093e4410a17511996b69851a36a7&amp;file=clementi_opus36_2_2.mp3">2. movement</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>1:06</td>
+<td class="midi" nowrap>2010-11-30</td>
+<td nowrap>1.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=77d0e7de078932d6163420281819a4c6&amp;file=clementi_opus36_2_3.mp3">3. movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>1:34</td>
+<td class="midi" nowrap>2010-12-07</td>
+<td nowrap>1.5 MB</td>
+</tr>
+</table>
+<h3>Sonatina Opus 36 No. 3, Opus 36</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=2edf2c53ce0e0a09118e2dbc1112dcac&amp;file=clementi_opus36_3_1.mp3">1. movement</a></td>
+<td class="midi">Spiritoso</td>
+<td class="midi" nowrap>2:54</td>
+<td class="midi" nowrap>2010-12-12</td>
+<td nowrap>2.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d9fe3ffb926a919f992e992cdf9eca9a&amp;file=clementi_opus36_3_2.mp3">2. movement</a></td>
+<td class="midi">Un poco adagio</td>
+<td class="midi" nowrap>1:28</td>
+<td class="midi" nowrap>2010-12-14</td>
+<td nowrap>1.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=2348fb8244eb040f69c9a73a5154ced3&amp;file=clementi_opus36_3_3.mp3">3. movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>1:28</td>
+<td class="midi" nowrap>2010-12-18</td>
+<td nowrap>1.3 MB</td>
+</tr>
+</table>
+<h3>Sonatina Opus 36 No. 4, Opus 36</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=cea5a3ad99e44853b76455cea4aa525f&amp;file=clementi_opus36_4_1.mp3">1. movement</a></td>
+<td class="midi">Con spirito</td>
+<td class="midi" nowrap>3:19</td>
+<td class="midi" nowrap>2011-09-29</td>
+<td nowrap>3.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=be6eac0f798679b9bec28a791c417e6a&amp;file=clementi_opus36_4_2.mp3">2. movement</a></td>
+<td class="midi">Andante con espressione</td>
+<td class="midi" nowrap>1:45</td>
+<td class="midi" nowrap>2011-10-09</td>
+<td nowrap>1.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f7ecd78892e37c0e94de1031af1decb4&amp;file=clementi_opus36_4_3.mp3">3. movement</a></td>
+<td class="midi">Rondo. Allegro vivace</td>
+<td class="midi" nowrap>1:48</td>
+<td class="midi" nowrap>2011-10-17</td>
+<td nowrap>1.7 MB</td>
+</tr>
+</table>
+<h3>Sonatina Opus 36 No. 5, Opus 36</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=087fe5d2ee910045770174aaaf76b7c5&amp;file=clementi_opus36_5_1.mp3">1. movement</a></td>
+<td class="midi">Presto</td>
+<td class="midi" nowrap>4:55</td>
+<td class="midi" nowrap>2010-12-28</td>
+<td nowrap>4.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=4e05ce21258e9cc820f053119d616540&amp;file=clementi_opus36_5_2.mp3">2. movement</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>4:55</td>
+<td class="midi" nowrap>2011-01-01</td>
+<td nowrap>1.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=2887cb9b1f2adaa2c6b4086f3fe90bee&amp;file=clementi_opus36_5_3.mp3">3. movement</a></td>
+<td class="midi">Rondo. Allegro di molto</td>
+<td class="midi" nowrap>2:56</td>
+<td class="midi" nowrap>2011-01-08</td>
+<td nowrap>2.8 MB</td>
+</tr>
+</table>
+<h3>Sonatina Opus 36 No. 6, Opus 36</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=222bf485cd7f07790228393693c463dc&amp;file=clementi_opus36_6_1.mp3">1. movement</a></td>
+<td class="midi">Allegro con spirito</td>
+<td class="midi" nowrap>5:21</td>
+<td class="midi" nowrap>2011-07-03</td>
+<td nowrap>5.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f83e948f8f17a5e8609aa3bad2c755de&amp;file=clementi_opus36_6_2.mp3">2. movement</a></td>
+<td class="midi">Rondo. Allegretto spiritoso.</td>
+<td class="midi" nowrap>2:17</td>
+<td class="midi" nowrap>2011-07-03</td>
+<td nowrap>2.2 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="debussy"></a>
+<h2>Debussy, Claude
+(1862-1918)
+</h2>
+<h3>Suite bergamasque</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=330cfa4b7a82daa64d6c884a6d55c49b&amp;file=deb_prel.mp3">Prélude</a></td>
+<td class="midi">Moderato (tempo rubato)</td>
+<td class="midi" nowrap>3:57</td>
+<td class="midi" nowrap>2011-08-04</td>
+<td nowrap>3.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=bc2107ac2af42cde0eb49b446b7241cf&amp;file=deb_menu.mp3">Menuet</a></td>
+<td class="midi">Andantino</td>
+<td class="midi" nowrap>4:08</td>
+<td class="midi" nowrap>2011-08-09</td>
+<td nowrap>3.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=705dd4d9246b3cdb713783fadd557fbb&amp;file=deb_clai.mp3">Clair de Lune</a></td>
+<td class="midi">Andante très expressif</td>
+<td class="midi" nowrap>4:07</td>
+<td class="midi" nowrap>2011-08-20</td>
+<td nowrap>3.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=370e5deb868e7ce821011e127a4f1440&amp;file=deb_pass.mp3">Passepied</a></td>
+<td class="midi">Allegretto ma non troppo</td>
+<td class="midi" nowrap>3:36</td>
+<td class="midi" nowrap>2011-08-24</td>
+<td nowrap>3.3 MB</td>
+</tr>
+</table>
+<h3>Children's Corner</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=08152bb43469ab3691dc610a4e484acb&amp;file=debussy_cc_1.mp3">I. Doctor Gradus ad Parnassum</a></td>
+<td class="midi">Modérément animé</td>
+<td class="midi" nowrap>2:24</td>
+<td class="midi" nowrap>2011-05-12</td>
+<td nowrap>2.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=785bc77c6809b94cd6245c8a423f0b24&amp;file=debussy_cc_2.mp3">Jimbo's Lullaby</a></td>
+<td class="midi">Assez modéré</td>
+<td class="midi" nowrap>3:09</td>
+<td class="midi" nowrap>2011-05-24</td>
+<td nowrap>2.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=843e3acce1074feb49325908b4d42023&amp;file=debussy_cc_3.mp3">Serenade of the Doll</a></td>
+<td class="midi">Allegretto ma non troppo</td>
+<td class="midi" nowrap>2:45</td>
+<td class="midi" nowrap>2011-06-11</td>
+<td nowrap>2.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=27f1de0e7fcfdf08c82100f8d8079b67&amp;file=debussy_cc_4.mp3">The snow is dancing</a></td>
+<td class="midi">Modérément animé</td>
+<td class="midi" nowrap>2:23</td>
+<td class="midi" nowrap>2011-06-25</td>
+<td nowrap>2.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=346e505498c81cb5c56897b122aa798a&amp;file=debussy_cc_5.mp3">The little Shepherd</a></td>
+<td class="midi">Très modéré</td>
+<td class="midi" nowrap>2:13</td>
+<td class="midi" nowrap>2011-07-02</td>
+<td nowrap>2.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=11f818d25aa52de933c27a4592097bef&amp;file=debussy_cc_6.mp3">Golli's cake walk</a></td>
+<td class="midi">Allegro giusto</td>
+<td class="midi" nowrap>2:23</td>
+<td class="midi" nowrap>2011-07-14</td>
+<td nowrap>2.2 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="godowsky"></a>
+<h2>Godowsky, Leopold
+(1870-1938)
+</h2>
+<h3>53 Studies on Études on Frédéric Chopin</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=030569a6d2348b93e6903c97723c6335&amp;file=god_chpn_op10_e01.mp3">No. 1</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>1:31</td>
+<td class="midi" nowrap>2010-08-09</td>
+<td nowrap>1.4 MB</td>
+</tr>
+</table>
+<h3>Transcription Albéniz: Tango</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=78d8f3577d5fc0831d39f1dafcde2ff5&amp;file=god_alb_esp2.mp3">Tango</a></td>
+<td class="midi">Andantino grazioso</td>
+<td class="midi" nowrap>2:38</td>
+<td class="midi" nowrap>2010-08-26</td>
+<td nowrap>2.4 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="granados"></a>
+<h2>Granados, Enrique
+(1867-1916)
+</h2>
+<h3>Danzas españolas</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=db38c87239c84003543d82cc92317dd4&amp;file=gra_esp_2.mp3">No. 2 - Oriental</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>3:30</td>
+<td class="midi" nowrap>2001-12-15</td>
+<td nowrap>3.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=02d81730e923a6454e05604b017168c2&amp;file=gra_esp_3.mp3">No. 3 - Zarabanda</a></td>
+<td class="midi">Energico</td>
+<td class="midi" nowrap>3:11</td>
+<td class="midi" nowrap>2001-12-15</td>
+<td nowrap>2.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=843c1e3931da0170e5926fb84e5d9c04&amp;file=gra_esp_4.mp3">No. 4 - Villanesca</a></td>
+<td class="midi">Allegretto, alla pastorale</td>
+<td class="midi" nowrap>4:45</td>
+<td class="midi" nowrap>2001-12-15</td>
+<td nowrap>4.3 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="grieg"></a>
+<h2>Grieg, Edvard
+(1843-1907)
+</h2>
+<h3>Lyric Pieces Book I, Opus 12</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6c95c7649c75d22a605061fb820b0814&amp;file=grieg_walzer.mp3">No. 2 - Valse</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>1:48</td>
+<td class="midi" nowrap>2012-10-27</td>
+<td nowrap>1.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=36bc6f1149a35d5fa4512fd10685d594&amp;file=grieg_waechter.mp3">No. 3 - Watchman's song</a></td>
+<td class="midi">Molto andante e simplice</td>
+<td class="midi" nowrap>2:47</td>
+<td class="midi" nowrap>2012-10-28</td>
+<td nowrap>2.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=0962f5fb4b6144d497de64cb2d1bfeff&amp;file=grieg_elfentanz.mp3">No. 4 - Fairy Dance</a></td>
+<td class="midi">Molto allegro e sempre staccato</td>
+<td class="midi" nowrap>1:54</td>
+<td class="midi" nowrap>2012-10-29</td>
+<td nowrap>0.9 MB</td>
+</tr>
+</table>
+<h3>Lyric Pieces Book II , Opus 38</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=3491b816018111cfd92359f1ace73a7f&amp;file=grieg_berceuse.mp3">No. 1 - Berceuse</a></td>
+<td class="midi">Allegretto tranquillo</td>
+<td class="midi" nowrap>2:38</td>
+<td class="midi" nowrap>2012-09-12</td>
+<td nowrap>2.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=14391e704a4b9f8e1deb2a0906ecefb4&amp;file=grieg_halling.mp3">No. 4 - Halling</a></td>
+<td class="midi">Allegro marcato</td>
+<td class="midi" nowrap>0:51</td>
+<td class="midi" nowrap>2012-11-03</td>
+<td nowrap>0.8 MB</td>
+</tr>
+</table>
+<h3>Lyric Pieces Book III, Opus 43</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=dcbeebce1ceb6fdb5554f33f798e2656&amp;file=grieg_butterfly.mp3">No. 1 - Butterfly</a></td>
+<td class="midi">Allegro grazioso</td>
+<td class="midi" nowrap>1:37</td>
+<td class="midi" nowrap>2012-11-04</td>
+<td nowrap>1.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=5a353cab7336f0389152ea7d248c3cc1&amp;file=grieg_wanderer.mp3">No. 2 - Solitary Traveller</a></td>
+<td class="midi">Allegro semplice</td>
+<td class="midi" nowrap>1:41</td>
+<td class="midi" nowrap>2012-11-05</td>
+<td nowrap>1.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=cec8b9a53585e0a76333f77688af8fb0&amp;file=grieg_voeglein.mp3">No. 4 - Little Bird</a></td>
+<td class="midi">Allegro leggiero</td>
+<td class="midi" nowrap>1:37</td>
+<td class="midi" nowrap>2012-11-06</td>
+<td nowrap>1.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=04bb762411719d56fb1ab57581f904b1&amp;file=grieg_spring.mp3">No. 6 - To Spring</a></td>
+<td class="midi">Allegro appassionato</td>
+<td class="midi" nowrap>2:34</td>
+<td class="midi" nowrap>2012-09-14</td>
+<td nowrap>2.4 MB</td>
+</tr>
+</table>
+<h3>Lyric Pieces Book IV , Opus 47</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=782b0e8cb7d00cc70022669907a7dbed&amp;file=grieg_album.mp3">No. 2 - Album Leaf</a></td>
+<td class="midi">Allegro vivace e grazioso</td>
+<td class="midi" nowrap>3:07</td>
+<td class="midi" nowrap>2012-09-24</td>
+<td nowrap>2.9 MB</td>
+</tr>
+</table>
+<h3>Lyric Pieces Book V, Opus 54</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=c67085baa3e80be4082086df64b0f2c1&amp;file=grieg_march.mp3">No. 2 - Norwegian March</a></td>
+<td class="midi">Allegretto marcato</td>
+<td class="midi" nowrap>3:01</td>
+<td class="midi" nowrap>2012-10-04</td>
+<td nowrap>2.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ae908813a0edb60d3956c79768e0dbc4&amp;file=grieg_zwerge.mp3">No. 3 - March of the Dwarfs</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>2:36</td>
+<td class="midi" nowrap>2012-11-08</td>
+<td nowrap>2.4 MB</td>
+</tr>
+</table>
+<h3>Lyric Pieces Book VII , Opus 62</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f8220d67218e43a8fe9e9b6f053ad46d&amp;file=grieg_brooklet.mp3">No. 4 - Brooklet</a></td>
+<td class="midi">Allegro leggiore</td>
+<td class="midi" nowrap>1:23</td>
+<td class="midi" nowrap>22012-10-10</td>
+<td nowrap>1.3 MB</td>
+</tr>
+</table>
+<h3>Lyric Pieces Book VIII, Opus 65</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=42a9ab3c3304b76de3dc93efaf28f9b6&amp;file=grieg_wedding.mp3">No. 6 - Wedding-day at Troldhaugen</a></td>
+<td class="midi">Tempo di Marcia un poco vivace</td>
+<td class="midi" nowrap>5:33</td>
+<td class="midi" nowrap>2012-11-18</td>
+<td nowrap>5.1 MB</td>
+</tr>
+</table>
+<h3>Lyric Pieces Book X, Opus 71</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d8cc064334a5b212e3b2f422c9149dfd&amp;file=grieg_once_upon_a_time.mp3">No. 1 - Once upon a Time</a></td>
+<td class="midi">Andante con moto</td>
+<td class="midi" nowrap>4:17</td>
+<td class="midi" nowrap>2012-10-23</td>
+<td nowrap>4.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1220d28422000a9fd0a9b73971117f4e&amp;file=grieg_kobold.mp3">No. 3 - Puck</a></td>
+<td class="midi">Tempo di Marcia un poco vivace</td>
+<td class="midi" nowrap>1:24</td>
+<td class="midi" nowrap>2012-11-19</td>
+<td nowrap>1.4 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="haydn"></a>
+<h2>Haydn, Joseph
+(1732-1809)
+</h2>
+<h3>Piano Sonata in C major, Hoboken XVI:7</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1d0fb6d2e6fcc96574b53e11d9a76d0a&amp;file=haydn_7_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>1:03</td>
+<td class="midi" nowrap>2011-10-20</td>
+<td nowrap>1.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=33656b5d5b58be75e84f20b09489d0fc&amp;file=haydn_7_2.mp3">2. Movement</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>1:03</td>
+<td class="midi" nowrap>2011-10-24</td>
+<td nowrap>2.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=84c64bf15d2b3f8cc1c9a41176a72cb3&amp;file=haydn_7_3.mp3">3. Movement</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>1:31</td>
+<td class="midi" nowrap>2011-10-28</td>
+<td nowrap>1.4 MB</td>
+</tr>
+</table>
+<h3>Piano Sonata in G major, Hoboken XVI:8</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=5046d0c8a2c19fc985512045973f8190&amp;file=haydn_8_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>2:02</td>
+<td class="midi" nowrap>2011-11-13</td>
+<td nowrap>1.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=564cb11463967a359a274c3a7321a9ca&amp;file=haydn_8_2.mp3">2. Movement</a></td>
+<td class="midi">Menuett</td>
+<td class="midi" nowrap>0:57</td>
+<td class="midi" nowrap>2011-11-14</td>
+<td nowrap>0.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=81dab74250f2f06a1cfe1208a0bd46dc&amp;file=haydn_8_3.mp3">3. Movement</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>1:27</td>
+<td class="midi" nowrap>2011-11-15</td>
+<td nowrap>1.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=4298661a37d37a33001dd748f6d892ca&amp;file=haydn_8_4.mp3">4. Movement</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>0:40</td>
+<td class="midi" nowrap>2011-11-16</td>
+<td nowrap>0.6 MB</td>
+</tr>
+</table>
+<h3>Piano Sonata in F major, Hoboken XVI:9</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=84ee3d195ae4323453f78fc9388d084b&amp;file=haydn_9_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>2:24</td>
+<td class="midi" nowrap>2011-11-03</td>
+<td nowrap>2.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=114068e311148d5599a2de5e697fd3e5&amp;file=haydn_9_2.mp3">2. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>2:50</td>
+<td class="midi" nowrap>2011-11-08</td>
+<td nowrap>2.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=92ec80551acad958203b451f9dfde70d&amp;file=haydn_9_3.mp3">3. Movement</a></td>
+<td class="midi">Scherzo</td>
+<td class="midi" nowrap>0:51</td>
+<td class="midi" nowrap>2011-11-12</td>
+<td nowrap>0.8 MB</td>
+</tr>
+</table>
+<h3>Piano Sonata in D major, Hoboken XVI:33</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=fc5f01949332bf3b4c2eceee0b0b468a&amp;file=haydn_33_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>5:39</td>
+<td class="midi" nowrap>2012-02-08</td>
+<td nowrap>5.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=fe4f3372d8671eaf3abda7b3a98fbb04&amp;file=haydn_33_2.mp3">2. Movement</a></td>
+<td class="midi">Adagio</td>
+<td class="midi" nowrap>5:18</td>
+<td class="midi" nowrap>2012-02-18</td>
+<td nowrap>4.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=203cfecbdbd74c0688694a2b7548f66e&amp;file=haydn_33_3.mp3">3. Movement</a></td>
+<td class="midi">Tempo di Menuet</td>
+<td class="midi" nowrap>3:57</td>
+<td class="midi" nowrap>2012-02-28</td>
+<td nowrap>3.7 MB</td>
+</tr>
+</table>
+<h3>Piano Sonata in C major, Hoboken XVI:35</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8112fc1872c1f8edd1fecf3912ad8183&amp;file=haydn_35_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro con brio</td>
+<td class="midi" nowrap>5:37</td>
+<td class="midi" nowrap>2011-12-04</td>
+<td nowrap>5.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f714489eac33426374ec54d150c2272c&amp;file=haydn_35_2.mp3">2. Movement</a></td>
+<td class="midi">Adagio</td>
+<td class="midi" nowrap>6:35</td>
+<td class="midi" nowrap>2011-12-05</td>
+<td nowrap>6.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a9900c3868967f84226efc679ec47ae9&amp;file=haydn_35_3.mp3">3. Movement</a></td>
+<td class="midi">Finale Allegro</td>
+<td class="midi" nowrap>2:24</td>
+<td class="midi" nowrap>2011-12-06</td>
+<td nowrap>2.3 MB</td>
+</tr>
+</table>
+<h3>Piano Sonata in G major, Hoboken XVI:40</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e50c1d946c51b35c8d3320129521b0ea&amp;file=hay_40_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro e innocente</td>
+<td class="midi" nowrap>6:34</td>
+<td class="midi" nowrap>2011-11-24</td>
+<td nowrap>6.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=519e6c57f8577d45e0cf5184333039a6&amp;file=hay_40_2.mp3">2. Movement</a></td>
+<td class="midi">Presto</td>
+<td class="midi" nowrap>2:59</td>
+<td class="midi" nowrap>2011-11-29</td>
+<td nowrap>2.8 MB</td>
+</tr>
+</table>
+<h3>Piano Sonata in Ab major, Hoboken XVI:43</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1f43d073fd8aae9ea3bbd13a818f09ad&amp;file=haydn_43_1.mp3">1. Movement</a></td>
+<td class="midi">Moderato</td>
+<td class="midi" nowrap>6:18</td>
+<td class="midi" nowrap>2012-01-08</td>
+<td nowrap>5.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=0c11bfb71ba2cff70391394555d890df&amp;file=haydn_43_2.mp3">2. Movement</a></td>
+<td class="midi">Menuet</td>
+<td class="midi" nowrap>2:29</td>
+<td class="midi" nowrap>2012-01-13</td>
+<td nowrap>2.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=375f15c986f80fdc0d63b2419d739a1a&amp;file=haydn_43_3.mp3">3. Movement</a></td>
+<td class="midi">Rondo Presto</td>
+<td class="midi" nowrap>5:07</td>
+<td class="midi" nowrap>2012-01-25</td>
+<td nowrap>4.7 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="liszt"></a>
+<h2>Liszt, Franz
+(1811-1886)
+</h2>
+<h3>Reminiscences de Don Juan
+(Fantasia on Mozart's Don Giovanni)
+</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=33d20b4486dc91a3aaab10fb77ea5269&amp;file=liz_donjuan.mp3">Reminiscences de Don Juan</a></td>
+<td class="midi">-</td>
+<td class="midi" nowrap>16:51</td>
+<td class="midi" nowrap>2014-06-04</td>
+<td nowrap>23.2 MB</td>
+</tr>
+</table>
+<h3>Love dreams</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=c0046b2d5ba4336b3000dad187407bf4&amp;file=liz_liebestraum.mp3">No. 3</a></td>
+<td class="midi">Poco Allegro con affetto</td>
+<td class="midi" nowrap>4:09</td>
+<td class="midi" nowrap>2014-06-05</td>
+<td nowrap>5.7 MB</td>
+</tr>
+</table>
+<h3>Grandes Etudes de Paganini</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=c7cd8446a30a7f7e41890ee13284f8c5&amp;file=liz_et1.mp3">No. 1</a></td>
+<td class="midi">Andante - Non troppo lento</td>
+<td class="midi" nowrap>4:47</td>
+<td class="midi" nowrap>2014-06-07</td>
+<td nowrap>6.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8d9c9fb6084b99f956905f973c1947f2&amp;file=liz_et2.mp3">No. 2</a></td>
+<td class="midi">Andante - Andantino capriccioso</td>
+<td class="midi" nowrap>5:18</td>
+<td class="midi" nowrap>2014-06-07</td>
+<td nowrap>7.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b0bad8d5f5720835e6a244ba7bfdf00a&amp;file=liz_et3.mp3">No. 3 - La Campanella</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>4:07</td>
+<td class="midi" nowrap>2014-06-07</td>
+<td nowrap>5.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=19fc891d78d599275a60f23717448bb6&amp;file=liz_et4.mp3">No. 4</a></td>
+<td class="midi">Vivo</td>
+<td class="midi" nowrap>1:54</td>
+<td class="midi" nowrap>2014-06-09</td>
+<td nowrap>2.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=54090f12026bcdbbeefb6b02d3e5c656&amp;file=liz_et5.mp3">No. 5</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>3:04</td>
+<td class="midi" nowrap>2014-06-09</td>
+<td nowrap>4.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=5132de4cbe649a3ae0eb84ee405cc9d0&amp;file=liz_et6.mp3">No. 6</a></td>
+<td class="midi">Quasi presto</td>
+<td class="midi" nowrap>5:19</td>
+<td class="midi" nowrap>2014-06-09</td>
+<td nowrap>7.3 MB</td>
+</tr>
+</table>
+<h3>Études d'exécution transcendante</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=7cb8670e8b4ae4231d64530b59deddaf&amp;file=liz_et_trans4.mp3">No. 4 - Mazeppa</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>6:17</td>
+<td class="midi" nowrap>2014-06-24</td>
+<td nowrap>8.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=45e25543e950eeecb606b92fc885b773&amp;file=liz_et_trans5.mp3">No. 5 - Feux Follets</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>3:16</td>
+<td class="midi" nowrap>2014-06-24</td>
+<td nowrap>4.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=2bf5e0324ee37624380212516523f241&amp;file=liz_et_trans8.mp3">No. 8 - Wild Hunt</a></td>
+<td class="midi">Presto furioso</td>
+<td class="midi" nowrap>5:06</td>
+<td class="midi" nowrap>2014-06-24</td>
+<td nowrap>7.1 MB</td>
+</tr>
+</table>
+<h3>19 Hungarian Rhapsodies</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=bccbe3316bd02f329aa372e0b025d2bd&amp;file=liz_rhap02.mp3">No. 2</a></td>
+<td class="midi">Lento a capriccio</td>
+<td class="midi" nowrap>8:46</td>
+<td class="midi" nowrap>2014-06-25</td>
+<td nowrap>12.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=08e2c91a8e2c1db794439049e4df0fff&amp;file=liz_rhap09.mp3">No. 9 - Carnival in Pest</a></td>
+<td class="midi">Moderato</td>
+<td class="midi" nowrap>10:31</td>
+<td class="midi" nowrap>2014-06-25</td>
+<td nowrap>14.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=cde3554c37e76a3d7f0a7e9c65b4e3f0&amp;file=liz_rhap10.mp3">No. 10</a></td>
+<td class="midi">Preludio</td>
+<td class="midi" nowrap>4:39</td>
+<td class="midi" nowrap>2014-06-25</td>
+<td nowrap>6.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b8bdc75bd227bfabe256b69047326df4&amp;file=liz_rhap12.mp3">No. 12</a></td>
+<td class="midi">Mesto</td>
+<td class="midi" nowrap>8:43</td>
+<td class="midi" nowrap>2014-06-29</td>
+<td nowrap>12.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1a856d772ddd042f182b45eb6ed32787&amp;file=liz_rhap15.mp3">No. 15 - Rákóczy March</a></td>
+<td class="midi">Allegro animato - Tempo di Marcia animato</td>
+<td class="midi" nowrap>5:57</td>
+<td class="midi" nowrap>2014-06-29</td>
+<td nowrap>8.3 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="mendelssohn"></a>
+<h2>Mendelssohn, Felix
+(1809-1847)
+</h2>
+<h3>Songs without Words Book 1, Opus 19</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=25f90e29d822b48834caa84cc63334f0&amp;file=mendel_op19_1.mp3">No. 1</a></td>
+<td class="midi">Andante con moto</td>
+<td class="midi" nowrap>2:46</td>
+<td class="midi" nowrap>2014-09-30</td>
+<td nowrap>3.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=0dd4549482787620a72338434a1b11e0&amp;file=mendel_op19_2.mp3">No. 2</a></td>
+<td class="midi">Andante expressivo</td>
+<td class="midi" nowrap>2:48</td>
+<td class="midi" nowrap>2014-10-09</td>
+<td nowrap>3.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=939d598503ef0a8e03ab41852f20a186&amp;file=mendel_op19_3.mp3">No. 3</a></td>
+<td class="midi">Molto Allegro e vivace</td>
+<td class="midi" nowrap>2:18</td>
+<td class="midi" nowrap>2014-10-29</td>
+<td nowrap>3.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e35dcf03cc6e02f4c479374e5ecd128b&amp;file=mendel_op19_4.mp3">No. 4</a></td>
+<td class="midi">Moderato</td>
+<td class="midi" nowrap>1:46</td>
+<td class="midi" nowrap>2014-11-10</td>
+<td nowrap>2.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=4109e617c0cc3ff777eb9dbeea0892d1&amp;file=mendel_op19_5.mp3">No. 5</a></td>
+<td class="midi">Piano agitato</td>
+<td class="midi" nowrap>2:56</td>
+<td class="midi" nowrap>2014-11-30</td>
+<td nowrap>4.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ac2db2b8ade813dfcaa0eacc0d108fec&amp;file=mendel_op19_6.mp3">No. 6 - Venetian Gondola Song</a></td>
+<td class="midi">Andante sostenuto</td>
+<td class="midi" nowrap>2:41</td>
+<td class="midi" nowrap>2014-12-09</td>
+<td nowrap>3.7 MB</td>
+</tr>
+</table>
+<h3>Songs without Words Book 2, Opus 30</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d4e7fc1eb8838d295e80c1cbc078e52b&amp;file=mendel_op30_1.mp3">No. 1</a></td>
+<td class="midi">Andante espressivo</td>
+<td class="midi" nowrap>4:19</td>
+<td class="midi" nowrap>2014-09-29</td>
+<td nowrap>5.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=831d5777bfb4f45c363441f0a77990db&amp;file=mendel_op30_2.mp3">No. 2</a></td>
+<td class="midi">Allegro di molto</td>
+<td class="midi" nowrap>2:04</td>
+<td class="midi" nowrap>2014-12-29</td>
+<td nowrap>2.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=3ea79244e7b0194e85ad5e240bc00a51&amp;file=mendel_op30_3.mp3">No. 3</a></td>
+<td class="midi">Adagio non troppo</td>
+<td class="midi" nowrap>1:44</td>
+<td class="midi" nowrap>2015-02-23</td>
+<td nowrap>2.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=92361613eb574a8d8a88e4500448c712&amp;file=mendel_op30_4.mp3">No. 4</a></td>
+<td class="midi">Agitato e con fuoco</td>
+<td class="midi" nowrap>2:40</td>
+<td class="midi" nowrap>2015-02-08</td>
+<td nowrap>3.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6a4cc38488a8d96ddd408939f9a4d052&amp;file=mendel_op30_5.mp3">No. 5</a></td>
+<td class="midi">Andante grazioso</td>
+<td class="midi" nowrap>1:53</td>
+<td class="midi" nowrap>2015-03-20</td>
+<td nowrap>2.6 MB</td>
+</tr>
+</table>
+<h3>Songs without Words Book 4, Opus 53</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=069a08af274bddd76289ae5f6d4dd7ec&amp;file=mendel_op53_5.mp3">No. 5 - Folk song</a></td>
+<td class="midi">Allegro con fuoco</td>
+<td class="midi" nowrap>2:35</td>
+<td class="midi" nowrap>2014-09-30</td>
+<td nowrap>3.5 MB</td>
+</tr>
+</table>
+<h3>Songs without Words Book 5, Opus 62</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=c050f02e2727aa6bf8f0776348dc4594&amp;file=mendel_op62_3.mp3">No. 3 - Funeral march</a></td>
+<td class="midi">Andante maestoso</td>
+<td class="midi" nowrap>3:06</td>
+<td class="midi" nowrap>2014-09-30</td>
+<td nowrap>4.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e9548424de260b5c95c793a3a191d677&amp;file=mendel_op62_4.mp3">No. 4 - Morning Song</a></td>
+<td class="midi">Allegro con anima</td>
+<td class="midi" nowrap>1:18</td>
+<td class="midi" nowrap>2014-09-30</td>
+<td nowrap>1.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=3590c4656f56ef2d9392dd8ec419787d&amp;file=mendel_op62_5.mp3">No. 5 - Venetian Gondola Song</a></td>
+<td class="midi">Andante con moto</td>
+<td class="midi" nowrap>2:39</td>
+<td class="midi" nowrap>2014-09-30</td>
+<td nowrap>3.6 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="moszkowski"></a>
+<h2>Moszkowski, Moritz
+(1854-1925)
+</h2>
+<h3>Étincelles, Opus 36</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=2bcabfae930694f1c5602bda30d76d96&amp;file=mos_op36_6.mp3">No. 6</a></td>
+<td class="midi">Allegro scherzando</td>
+<td class="midi" nowrap>2:32</td>
+<td class="midi" nowrap>2014-07-14</td>
+<td nowrap>3.5 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="mozart"></a>
+<h2>Mozart, Wolfgang Amadeus
+(1756-1791)
+</h2>
+<h3>Sonata No. 8 D major, KV 311</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b3b37cacfa9773f9244c2d465a08f5c7&amp;file=mz_311_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro con spirito</td>
+<td class="midi" nowrap>4:19</td>
+<td class="midi" nowrap>2013-06-05</td>
+<td nowrap>4.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6481cb635c1d9b08c4ad19e3b2e8fdf0&amp;file=mz_311_2.mp3">2. Movement</a></td>
+<td class="midi">Andantino con espressione</td>
+<td class="midi" nowrap>4:39</td>
+<td class="midi" nowrap>2013-06-06</td>
+<td nowrap>4.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=294656e9127650c379c25842d69522c6&amp;file=mz_311_3.mp3">3. Movement</a></td>
+<td class="midi">Rondo Allegro</td>
+<td class="midi" nowrap>6:05</td>
+<td class="midi" nowrap>2013-06-09</td>
+<td nowrap>5.6 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 10 C major, KV 330</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=37c715e73dd2a32d1619c63fb097a5de&amp;file=mz_330_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>8:58</td>
+<td class="midi" nowrap>2013-06-16</td>
+<td nowrap>8.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8ba969c7b3b47b59be684eca2f814a51&amp;file=mz_330_2.mp3">2. Movement</a></td>
+<td class="midi">Andante cantabile</td>
+<td class="midi" nowrap>6:36</td>
+<td class="midi" nowrap>2013-06-20</td>
+<td nowrap>6.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=929e55881e398fefbf6c2e09c18678c6&amp;file=mz_330_3.mp3">3. Movement</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>8:03</td>
+<td class="midi" nowrap>2013-06-24</td>
+<td nowrap>7.4 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 11 A major
+(Alla Turca)
+, KV 331</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=33071637ffae19757de6899ecb4c06a5&amp;file=mz_331_1.mp3">1. Movement</a></td>
+<td class="midi">Andante grazioso</td>
+<td class="midi" nowrap>13:52</td>
+<td class="midi" nowrap>2013-07-06</td>
+<td nowrap>12.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e7db3cc0c39111cd377fd886af60e925&amp;file=mz_331_2.mp3">2. Movement</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>6:05</td>
+<td class="midi" nowrap>2013-07-13</td>
+<td nowrap>5.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8ea624fbcf6c85793117d64edafbd983&amp;file=mz_331_3.mp3">3. Movement - Alla Turca</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>3:10</td>
+<td class="midi" nowrap>2013-07-15</td>
+<td nowrap>3.0 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 12 F major, KV 332</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=cb369a91d0c2f4e24d22a9f776b9930e&amp;file=mz_332_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>9:31</td>
+<td class="midi" nowrap>2013-07-22</td>
+<td nowrap>8.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=3343bb9272ce237c49909fb5eeb14718&amp;file=mz_332_2.mp3">2. Movement</a></td>
+<td class="midi">Adagio</td>
+<td class="midi" nowrap>4:24</td>
+<td class="midi" nowrap>2013-07-25</td>
+<td nowrap>4.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f42b6ccbe8c25ea8ba00b40a1ac2e029&amp;file=mz_332_3.mp3">3. Movement</a></td>
+<td class="midi">Assai allegro</td>
+<td class="midi" nowrap>9:50</td>
+<td class="midi" nowrap>2013-07-28</td>
+<td nowrap>9.0 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 13 Bb major, KV 333</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=377aae618b09e522ac77754dd79600dc&amp;file=mz_333_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>10:30</td>
+<td class="midi" nowrap>2013-09-04</td>
+<td nowrap>9.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a148301bdbe6f8763d084244902fc40a&amp;file=mz_333_2.mp3">2. Movement</a></td>
+<td class="midi">Andante cantabile</td>
+<td class="midi" nowrap>8:43</td>
+<td class="midi" nowrap>2013-09-11</td>
+<td nowrap>8.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=94447dee9263f3faab5a58eee4ce2171&amp;file=mz_333_3.mp3">3. Movement</a></td>
+<td class="midi">Allegretto grazioso</td>
+<td class="midi" nowrap>5:48</td>
+<td class="midi" nowrap>2013-09-17</td>
+<td nowrap>5.4 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 16 C major
+(Sonata facile)
+, KV 545</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d745ddec10cae470b8a2eb7e8171c2c1&amp;file=mz_545_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>4:21</td>
+<td class="midi" nowrap>2013-09-23</td>
+<td nowrap>4.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=67046bd9568ebdaef31d7f3e643739c2&amp;file=mz_545_2.mp3">2. Movement</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>5:44</td>
+<td class="midi" nowrap>2013-09-27</td>
+<td nowrap>5.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=fa7d1c7bbdd43a70ee0d6fe27d7b1f47&amp;file=mz_545_3.mp3">3. Movement</a></td>
+<td class="midi">Rondo Allegretto</td>
+<td class="midi" nowrap>1:44</td>
+<td class="midi" nowrap>2013-09-29</td>
+<td nowrap>1.6 MB</td>
+</tr>
+</table>
+<h3>Sonata No. 17 Bb major, KV 570</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1d3dc0d71297a3423230b826ff6fd2f3&amp;file=mz_570_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>7:56</td>
+<td class="midi" nowrap>2013-10-10</td>
+<td nowrap>7.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8dcdbcf4ef18128146d74b8511c6172f&amp;file=mz_570_2.mp3">2. Movement</a></td>
+<td class="midi">Adagio</td>
+<td class="midi" nowrap>7:35</td>
+<td class="midi" nowrap>2013-10-17</td>
+<td nowrap>7.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a51899473237501bcbe5d92efe730f61&amp;file=mz_570_3.mp3">3. Movement</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>3:20</td>
+<td class="midi" nowrap>2013-10-23</td>
+<td nowrap>3.1 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="mussorgsky"></a>
+<h2>Mussorgsky, Modest
+(1839-1881)
+</h2>
+<h3>Pictures at an Exhibition</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8699a7b5f5151cadb43344f7eb46d743&amp;file=muss_1.mp3">Promenade - Gnomus</a></td>
+<td class="midi">Allegro giusto, nel modo russico - Sempre vivo</td>
+<td class="midi" nowrap>3:32</td>
+<td class="midi" nowrap>21013-11-03</td>
+<td nowrap>3.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=865992945b78afc92993229febb9b722&amp;file=muss_2.mp3">Promenade - Il vecchio Castello</a></td>
+<td class="midi">Andante molto cantabile e con dolore</td>
+<td class="midi" nowrap>4:57</td>
+<td class="midi" nowrap>2013-11-12</td>
+<td nowrap>4.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=576d4675accf6bd2be347a724b31bafc&amp;file=muss_3.mp3">Promenade - The Tuileries</a></td>
+<td class="midi">Allegretto non troppo, capriccioso</td>
+<td class="midi" nowrap>1:29</td>
+<td class="midi" nowrap>2013-11-15</td>
+<td nowrap>1.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=800d597fef491bead2c088be8b917825&amp;file=muss_4.mp3">Bydlo</a></td>
+<td class="midi">Sempre moderato pesante</td>
+<td class="midi" nowrap>2:51</td>
+<td class="midi" nowrap>2013-11-18</td>
+<td nowrap>2.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=176130a64a416a784140d4e9c2fc9330&amp;file=muss_5.mp3">Promenade - Ballet of the Unhatched Chickens</a></td>
+<td class="midi">Scherzino</td>
+<td class="midi" nowrap>1:42</td>
+<td class="midi" nowrap>2013-11-22</td>
+<td nowrap>1.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=71e09d30be09404b99a63f1b3a3df999&amp;file=muss_6.mp3">Samuel Goldenberg and Schmuyle</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>2:04</td>
+<td class="midi" nowrap>2013-12-03</td>
+<td nowrap>1.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=5d58cc24eeb699a40065981cfba702d5&amp;file=muss_7.mp3">Promenade - The Market Place of Limoges - Catacombae - Con mortuis in lingua mortua</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>6:03</td>
+<td class="midi" nowrap>2013-12-16</td>
+<td nowrap>5.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=918ba07210381116b243638efec8ee7d&amp;file=muss_8.mp3">The Hut on Chicken's Legs (Baba-Yaga) - The Great Gate of Kiev</a></td>
+<td class="midi">Allegro con brio, feroce - Maestoso. Con grandezza</td>
+<td class="midi" nowrap>7:20</td>
+<td class="midi" nowrap>2013-12-28</td>
+<td nowrap>6.7 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="rachmani"></a>
+<h2>Rachmaninov, Sergey
+(1873-1943)
+</h2>
+<h3>Prélude C# minor, Opus 3/2</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=2b35a31b15474854f79a952da6e7f1a4&amp;file=rac_op3_2.mp3">Prélude</a></td>
+<td class="midi">Lento - Agitato</td>
+<td class="midi" nowrap>4:05</td>
+<td class="midi" nowrap>2014-05-28</td>
+<td nowrap>5.7 MB</td>
+</tr>
+</table>
+<h3>10 Préludes, Opus 23</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=db5fb286137e87c02917ea045fca7bb2&amp;file=rac_op23_2.mp3">No. 2</a></td>
+<td class="midi">Maestoso</td>
+<td class="midi" nowrap>3:13</td>
+<td class="midi" nowrap>2014-05-28</td>
+<td nowrap>4.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8af398014e794223e68242dfc10f3c21&amp;file=rac_op23_3.mp3">No. 3</a></td>
+<td class="midi">Tempo di Minuetto</td>
+<td class="midi" nowrap>3:54</td>
+<td class="midi" nowrap>2014-05-28</td>
+<td nowrap>5.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b7f12ff4221e78ee072887a01014a942&amp;file=rac_op23_5.mp3">No. 5</a></td>
+<td class="midi">Alla marcia</td>
+<td class="midi" nowrap>3:20</td>
+<td class="midi" nowrap>2014-05-28</td>
+<td nowrap>4.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=df9e38c1637e53c57d5da55557d601f3&amp;file=rac_op23_7.mp3">No. 7</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>2:13</td>
+<td class="midi" nowrap>2014-05-28</td>
+<td nowrap>3.1 MB</td>
+</tr>
+</table>
+<h3>13 Préludes, Opus 32</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=3f3b272d4d7545e2823f15bdf484591b&amp;file=rac_op32_1.mp3">No. 1</a></td>
+<td class="midi">Allegro vivace</td>
+<td class="midi" nowrap>1:10</td>
+<td class="midi" nowrap>2014-06-01</td>
+<td nowrap>1.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6725390076e587fb76e703b16a7d0eb5&amp;file=rac_op32_13.mp3">No. 13</a></td>
+<td class="midi">Grave</td>
+<td class="midi" nowrap>4:18</td>
+<td class="midi" nowrap>2014-07-01</td>
+<td nowrap>5.9 MB</td>
+</tr>
+</table>
+<h3>8 Études-tableaux, Opus 33</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=bbfc77670c0323c045e77f583e0dd2d0&amp;file=rac_op33_5.mp3">No. 5</a></td>
+<td class="midi">Non allegro - Presto</td>
+<td class="midi" nowrap>1:33</td>
+<td class="midi" nowrap>2014-08-01</td>
+<td nowrap>2.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=4141c63cb6dedb422a7a8719ea848324&amp;file=rac_op33_6.mp3">No. 6</a></td>
+<td class="midi">Allegro con fuoco</td>
+<td class="midi" nowrap>1:48</td>
+<td class="midi" nowrap>2014-09-01</td>
+<td nowrap>2.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=4a571133d07eac0edae08b6ce4837e17&amp;file=rac_op33_8.mp3">No. 8</a></td>
+<td class="midi">Grave</td>
+<td class="midi" nowrap>2:25</td>
+<td class="midi" nowrap>2014-10-01</td>
+<td nowrap>3.4 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="ravel"></a>
+<h2>Ravel, Maurice
+(1875-1937)
+</h2>
+<h3>Jeux d'eau</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=77c49289b2f225788169878ab1caa27f&amp;file=rav_eau.mp3">Jeux d'eau</a></td>
+<td class="midi">Très doux</td>
+<td class="midi" nowrap>5:04</td>
+<td class="midi" nowrap>2004-07-15</td>
+<td nowrap>4.7 MB</td>
+</tr>
+</table>
+<h3>Miroirs</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=28cdd082c752bec70ef7911e54d22441&amp;file=ravel_miroirs_1.mp3">Noctuelles</a></td>
+<td class="midi">Tres léger</td>
+<td class="midi" nowrap>4:33</td>
+<td class="midi" nowrap>2007-06-11</td>
+<td nowrap>4.2 MB</td>
+</tr>
+</table>
+<h3>Gaspard de la Nuit</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1ada403eb2f4b867bfd2c1b1974ab1c4&amp;file=rav_ondi.mp3">Ondine</a></td>
+<td class="midi">Lent</td>
+<td class="midi" nowrap>5:55</td>
+<td class="midi" nowrap>2004-01-18</td>
+<td nowrap>5.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=30a050f1777f8ead384f433208e8596b&amp;file=rav_gib.mp3">Le Gibet</a></td>
+<td class="midi">Très lent</td>
+<td class="midi" nowrap>6:08</td>
+<td class="midi" nowrap>2004-01-23</td>
+<td nowrap>5.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1158706985483df682c14502cca11125&amp;file=rav_scarbo.mp3">Scarbo</a></td>
+<td class="midi">Modéré</td>
+<td class="midi" nowrap>8:33</td>
+<td class="midi" nowrap>2004-02-28</td>
+<td nowrap>7.8 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="schubert"></a>
+<h2>Schubert, Franz
+(1797-1828)
+</h2>
+<h3>Piano Sonata in D major, D 850, Opus 53</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d4664c9e6d5df0984d43d14d924453b2&amp;file=schubert_D850_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro vivace</td>
+<td class="midi" nowrap>8:47</td>
+<td class="midi" nowrap>2014-07-24</td>
+<td nowrap>12.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=90dd0f07dd218b02a3257d03ddc1ad91&amp;file=schubert_D850_2.mp3">2. Movement</a></td>
+<td class="midi">Con moto</td>
+<td class="midi" nowrap>10:09</td>
+<td class="midi" nowrap>2014-07-24</td>
+<td nowrap>13.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e905c2924a54ccac83b9bfb501d90cec&amp;file=schubert_D850_3.mp3">3. Movement</a></td>
+<td class="midi">Scherzo</td>
+<td class="midi" nowrap>9:24</td>
+<td class="midi" nowrap>2014-07-25</td>
+<td nowrap>12.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=257dd30c45ff6592ed4b2d9e1884e375&amp;file=schubert_D850_4.mp3">4. Movement</a></td>
+<td class="midi">Rondo - Allegro moderato</td>
+<td class="midi" nowrap>9:07</td>
+<td class="midi" nowrap>2014-07-25</td>
+<td nowrap>12.5 MB</td>
+</tr>
+</table>
+<h3>Fantasia C major
+(Wanderer)
+, D 760, Opus 15</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1b56d89bacae88565573391f9bf37f88&amp;file=schub_d760_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro con fuoco ma non troppo</td>
+<td class="midi" nowrap>5:54</td>
+<td class="midi" nowrap>2014-08-19</td>
+<td nowrap>8.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=fc194729a38a5dc773a86e21fa3bb9a8&amp;file=schub_d760_2.mp3">2. Movement</a></td>
+<td class="midi">Adagio</td>
+<td class="midi" nowrap>7:00</td>
+<td class="midi" nowrap>2014-08-19</td>
+<td nowrap>9.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6c489bd9f9bf0736312e96eeae54bf25&amp;file=schub_d760_3.mp3">3. Movement</a></td>
+<td class="midi">Presto</td>
+<td class="midi" nowrap>4:29</td>
+<td class="midi" nowrap>2014-08-19</td>
+<td nowrap>6.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=698a9ce8e888746e788a1175473f3d11&amp;file=schub_d760_4.mp3">4. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>3:27</td>
+<td class="midi" nowrap>2014-08-19</td>
+<td nowrap>4.8 MB</td>
+</tr>
+</table>
+<h3>6 Moments musicaux, D 780, Opus 94</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=896e7e25dee64eaff4f771594aedbc20&amp;file=schumm-1.mp3">No. 1</a></td>
+<td class="midi">Moderato</td>
+<td class="midi" nowrap>4:30</td>
+<td class="midi" nowrap>2014-08-26</td>
+<td nowrap>6.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ba0437fa945ba0c0c14a2c9dd2a2d25c&amp;file=schumm-2.mp3">No. 2</a></td>
+<td class="midi">Andantino</td>
+<td class="midi" nowrap>5:20</td>
+<td class="midi" nowrap>2014-08-26</td>
+<td nowrap>7.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=019a4c3edbea000113ad32109d413bd4&amp;file=schumm-3.mp3">No. 3</a></td>
+<td class="midi">Allegretto moderato</td>
+<td class="midi" nowrap>1:43</td>
+<td class="midi" nowrap>2014-08-27</td>
+<td nowrap>2.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=580a0aa2bb443e4e7b8d9f0be406bca1&amp;file=schumm-4.mp3">No. 4</a></td>
+<td class="midi">Moderato</td>
+<td class="midi" nowrap>5:09</td>
+<td class="midi" nowrap>2014-08-27</td>
+<td nowrap>7.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=0ba8c4ec3f802cb79f2e86bfd9f2a760&amp;file=schumm-5.mp3">No. 5</a></td>
+<td class="midi">Allegro vivace</td>
+<td class="midi" nowrap>1:59</td>
+<td class="midi" nowrap>2014-08-27</td>
+<td nowrap>2.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b92737b2f0b16e5fa3877ca96a91b522&amp;file=schumm-6.mp3">No. 6</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>5:14</td>
+<td class="midi" nowrap>2014-08-27</td>
+<td nowrap>7.2 MB</td>
+</tr>
+</table>
+<h3>Piano Sonata in A minor, D 784, Opus 143</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ef4674f83fa64c560a72837b71caf511&amp;file=schu_143_1.mp3">1. Movement</a></td>
+<td class="midi">Allegro giusto</td>
+<td class="midi" nowrap>12:30</td>
+<td class="midi" nowrap>2014-09-02</td>
+<td nowrap>17.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=635edebe4c19b4f40fbdeff4b3769b6a&amp;file=schu_143_2.mp3">2. Movement</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>3:48</td>
+<td class="midi" nowrap>2014-09-02</td>
+<td nowrap>5.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=7eb437e5876947010933c06db520701a&amp;file=schu_143_3.mp3">3. Movement</a></td>
+<td class="midi">Allegro vivace</td>
+<td class="midi" nowrap>5:29</td>
+<td class="midi" nowrap>2014-09-02</td>
+<td nowrap>7.5 MB</td>
+</tr>
+</table>
+<h3>4 Impromptus, D 899, Opus 90</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=027a9acba211dcaf8994af245ccbdfca&amp;file=schuim-1.mp3">No. 1</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>7:44</td>
+<td class="midi" nowrap>2014-09-03</td>
+<td nowrap>10.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=654632a508d1d6be23256aabd517398d&amp;file=schuim-2.mp3">No. 2</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>4:30</td>
+<td class="midi" nowrap>2014-09-03</td>
+<td nowrap>6.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=2d84044b661f4da77752a6dbbacee194&amp;file=schuim-3.mp3">No. 3</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>5:12</td>
+<td class="midi" nowrap>2014-09-03</td>
+<td nowrap>8.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=99af732fe6ea19d2f1d12bc41b4cfd72&amp;file=schuim-4.mp3">No. 4</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>7:00</td>
+<td class="midi" nowrap>2014-09-03</td>
+<td nowrap>9.7 MB</td>
+</tr>
+</table>
+<h3>4 Impromptus, D 935, Opus posth. 142</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b81172810f0c9ed837c6f7162e16bc0d&amp;file=schubert_d935_1.mp3">No. 1</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>8:38</td>
+<td class="midi" nowrap>2014-09-05</td>
+<td nowrap>11.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=7aad3868a386ba1fb8bcfbe0ea976a43&amp;file=schubert_d935_2.mp3">No. 2</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>7:00</td>
+<td class="midi" nowrap>2014-09-05</td>
+<td nowrap>8.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1a20393d39da1de8e915e7dd335bc23f&amp;file=schubert_d935_3.mp3">No. 3</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>11:15</td>
+<td class="midi" nowrap>2014-09-05</td>
+<td nowrap>15.4 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e068e2da58bbcca9466fe02f69d07def&amp;file=schubert_d935_4.mp3">No. 4</a></td>
+<td class="midi">Allegro scherzando</td>
+<td class="midi" nowrap>5:35</td>
+<td class="midi" nowrap>2014-09-05</td>
+<td nowrap>7.8 MB</td>
+</tr>
+</table>
+<h3>Piano Sonata in Bb major, D 960</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=b2f741cbb383abb1ee8ce28d89edc9f9&amp;file=schub_d960_1.mp3">1. Movement</a></td>
+<td class="midi">Molto moderato</td>
+<td class="midi" nowrap>22:06</td>
+<td class="midi" nowrap>2014-09-07</td>
+<td nowrap>30.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=0ea2ced8adbde75c04626d99a1f5cfb1&amp;file=schub_d960_2.mp3">2. Movement</a></td>
+<td class="midi">Andante sostenuto</td>
+<td class="midi" nowrap>8:36</td>
+<td class="midi" nowrap>2014-09-07</td>
+<td nowrap>11.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=21773f15b44b58e8da3b3fd183fd52e7&amp;file=schub_d960_3.mp3">3. Movement</a></td>
+<td class="midi">Scherzo - Allegro vivace con delicatezza</td>
+<td class="midi" nowrap>3:55</td>
+<td class="midi" nowrap>2014-09-07</td>
+<td nowrap>5.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=cd971f8a65cfe509844eb19ef5559731&amp;file=schub_d960_4.mp3">4. Movement</a></td>
+<td class="midi">Allegro, ma non troppo</td>
+<td class="midi" nowrap>8:04</td>
+<td class="midi" nowrap>2014-09-07</td>
+<td nowrap>11.0 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="schumann"></a>
+<h2>Schumann, Robert
+(1810-1856)
+</h2>
+<h3>Abegg Variations, Opus 1</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=32aacecda0ede3a43487bc3e05bf4cea&amp;file=schum_abegg.mp3">Thema, Var.I, Var.II, Var.III, Finale alla Fantasia</a></td>
+<td class="midi">Animato</td>
+<td class="midi" nowrap>6:14</td>
+<td class="midi" nowrap>2014-09-11</td>
+<td nowrap>8.6 MB</td>
+</tr>
+</table>
+<h3>Scenes from Childhood, Opus 15</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ecd186a2049da161b9a9dab6a03d550d&amp;file=scn15_1.mp3">A Tale of Distant Lands</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>1:19</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>1.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=5d0778bcc8f2e80b845f002e684052a4&amp;file=scn15_2.mp3">Curious Story</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>0:56</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>1.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=f86d2d69acb05d2c79f171020db6a06d&amp;file=scn15_3.mp3">Blindman's Buff</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>0:31</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>0.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=c6af12ffb2d668f3e912787628e30e57&amp;file=scn15_4.mp3">Pleading Child</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>0:40</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>1.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6043579c4e38069985b865b8e9c98117&amp;file=scn15_5.mp3">Perfect Happiness</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>1:13</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>1.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=1c793524900f131acd5e82dc18242d4e&amp;file=scn15_6.mp3">Great Adventure</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>0:47</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>1.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=a044200e2eb1de583d8729118a3d5959&amp;file=scn15_7.mp3">Reverie</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>2:08</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>3.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=de0b0e56e10ed39b15fc1d74530060e5&amp;file=scn15_8.mp3">By the Fire-side</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>1:07</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>1.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=6bc1f38818bf83551159ba4e9ce54652&amp;file=scn15_9.mp3">On the Rocking Horse</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>0:37</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>1.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d56ef615e0fd7008c51abed8037cf62f&amp;file=scn15_10.mp3">Almost Too Serious</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>1:12</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>1.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=fd17c5c8ca3ee2a4af57be1ed1effc06&amp;file=scn15_11.mp3">Hobgoblin</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>1:16</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>1.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ee1a6007c50f5e7b9ccb743862e90f6f&amp;file=scn15_12.mp3">In Slumberland</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>1:23</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>2.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ac9469caea46a76e9d89a0e32cf61259&amp;file=scn15_13.mp3">The Poet speaks</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>1:17</td>
+<td class="midi" nowrap>2014-09-13</td>
+<td nowrap>1.9 MB</td>
+</tr>
+</table>
+<h3>Kreisleriana, Opus 16</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=74bf1fed06db38fb3f5a2a1d5d17e74a&amp;file=scn16_1.mp3">No.1</a></td>
+<td class="midi">Äußerst bewegt - Extremely moving</td>
+<td class="midi" nowrap>2:39</td>
+<td class="midi" nowrap>2014-09-15</td>
+<td nowrap>3.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d018953ae936e76db5bb5e7f65b9031d&amp;file=scn16_2.mp3">No.2</a></td>
+<td class="midi">Sehr innig und nicht zu rasch - Very inwardly and not too quickly</td>
+<td class="midi" nowrap>7:20</td>
+<td class="midi" nowrap>2014-09-15</td>
+<td nowrap>10.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=7c66a78223c3f741976240b27c5491e5&amp;file=scn16_3.mp3">No.3</a></td>
+<td class="midi">Sehr aufgeregt - Very agitated</td>
+<td class="midi" nowrap>4:14</td>
+<td class="midi" nowrap>2014-09-15</td>
+<td nowrap>5.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8f9590c6eba29ce6ee87678f9fc5072c&amp;file=scn16_4.mp3">No.4</a></td>
+<td class="midi">Sehr langsam - Very slowly</td>
+<td class="midi" nowrap>3:15</td>
+<td class="midi" nowrap>2014-09-15</td>
+<td nowrap>4.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=59575028c4b286c65061e3a192c384e3&amp;file=scn16_5.mp3">No.5</a></td>
+<td class="midi">Sehr lebhaft - Very lively</td>
+<td class="midi" nowrap>3:14</td>
+<td class="midi" nowrap>2014-09-16</td>
+<td nowrap>4.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=505b75cde95bf3d94021399f963606f4&amp;file=scn16_6.mp3">No.6</a></td>
+<td class="midi">Sehr langsam - Very slowly</td>
+<td class="midi" nowrap>3:55</td>
+<td class="midi" nowrap>2014-09-16</td>
+<td nowrap>5.6 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=c3e25be66d9ede11750cf07538fc1e6a&amp;file=scn16_7.mp3">No.7</a></td>
+<td class="midi">Sehr rasch - Very Fast</td>
+<td class="midi" nowrap>2:04</td>
+<td class="midi" nowrap>2014-09-16</td>
+<td nowrap>2.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=63e71bb485e43f461096ff3dad45ba55&amp;file=scn16_8.mp3">No.8</a></td>
+<td class="midi">Schnell und spielend  - Fast and playful</td>
+<td class="midi" nowrap>3:52</td>
+<td class="midi" nowrap>2014-09-16</td>
+<td nowrap>5.4 MB</td>
+</tr>
+</table>
+<h3>Album for the young, Opus 68</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=ef897a375583f54235166b2e048ec974&amp;file=scn68_10.mp3">The happy Farmer</a></td>
+<td class="midi">Frisch und munter</td>
+<td class="midi" nowrap>0:50</td>
+<td class="midi" nowrap>2014-09-20</td>
+<td nowrap>1.2 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=e6ac0e466ad0f09e4f72a56b807fa36f&amp;file=scn68_12.mp3">Knecht Ruprecht</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>1:49</td>
+<td class="midi" nowrap>2014-09-20</td>
+<td nowrap>2.6 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="sinding"></a>
+<h2>Sinding, Christian
+(1856-1941)
+</h2>
+<h3>Rustle of spring, Opus 32 No. 3</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=50c54951b71198b3d38f735b95cbd207&amp;file=fruehlingsrauschen.mp3">Rustle of spring</a></td>
+<td class="midi"></td>
+<td class="midi" nowrap>2:29</td>
+<td class="midi" nowrap>2010-05-13</td>
+<td nowrap>2.3 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><a name="tschai"></a>
+<h2>Tchaikovsky, Peter
+(1840-1893)
+</h2>
+<h3>The Seasons, Opus 37a</h3>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+</tr><tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=08c80b497e9cd424839fc4c9e5ddd31f&amp;file=ty_januar.mp3">January - At the Fireside</a></td>
+<td class="midi">Moderato simplice, ma espressivo</td>
+<td class="midi" nowrap>4:44</td>
+<td class="midi" nowrap>2008-09-06</td>
+<td nowrap>4.3 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=c701c3d523581fd08657bde98cb885ee&amp;file=ty_februar.mp3">February - Carnival</a></td>
+<td class="midi">Allegro giusto</td>
+<td class="midi" nowrap>2:44</td>
+<td class="midi" nowrap>2008-09-07</td>
+<td nowrap>2.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=67846b5bf419020993a8dccd5970c449&amp;file=ty_maerz.mp3">March - Song of the Lark</a></td>
+<td class="midi">Andantino expressivo</td>
+<td class="midi" nowrap>2:17</td>
+<td class="midi" nowrap>2008-09-10</td>
+<td nowrap>2.1 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=549ee2ee21110db1c6c09414e8d59ac8&amp;file=ty_april.mp3">April - Snowdrop</a></td>
+<td class="midi">Allegretto con moto e un poco rubato</td>
+<td class="midi" nowrap>2:09</td>
+<td class="midi" nowrap>2008-09-12</td>
+<td nowrap>2.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=480509c997f7c8a5a8bd13dd09f9958e&amp;file=ty_mai.mp3">May - Starlight Nights</a></td>
+<td class="midi">Andantino</td>
+<td class="midi" nowrap>3:18</td>
+<td class="midi" nowrap>2008-09-14</td>
+<td nowrap>3.0 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=5d892191325ce0b2d7662cb3b4432ab1&amp;file=ty_juni.mp3">June - Barcarolle</a></td>
+<td class="midi">Andante cantabile</td>
+<td class="midi" nowrap>3:54</td>
+<td class="midi" nowrap>2008-09-16</td>
+<td nowrap>3.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=d206965f5ccee50601db3a34b05d8771&amp;file=ty_juli.mp3">July - Song of the Reaper</a></td>
+<td class="midi">Allegro moderato con moto</td>
+<td class="midi" nowrap>1:54</td>
+<td class="midi" nowrap>2008-09-19</td>
+<td nowrap>1.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=9c43f6bb43253be74eb1a464b8efa133&amp;file=ty_august.mp3">August - Harvest</a></td>
+<td class="midi">Allegro vivace</td>
+<td class="midi" nowrap>3:13</td>
+<td class="midi" nowrap>2008-09-21</td>
+<td nowrap>2.9 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=7bde65fb4dbec45ebde03283f8ae2310&amp;file=ty_september.mp3">September - The Hunt</a></td>
+<td class="midi">Allegro non troppo</td>
+<td class="midi" nowrap>2:44</td>
+<td class="midi" nowrap>2008-09-22</td>
+<td nowrap>2.5 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=0fb4282ec97dc3757a8e185f86df7e57&amp;file=ty_oktober.mp3">October - Autumn Song</a></td>
+<td class="midi">Andante doloroso e molto cantabile</td>
+<td class="midi" nowrap>3:12</td>
+<td class="midi" nowrap>2008-09-24</td>
+<td nowrap>2.8 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=8ce9b0ab84a8abf5b71cd3945769d2b7&amp;file=ty_november.mp3">November - Troika Ride</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>2:58</td>
+<td class="midi" nowrap>2008-09-26</td>
+<td nowrap>2.7 MB</td>
+</tr>
+<tr class="midi"><td class="midi">
+<a href="mp3_link.php?id=fdc7860e97c2d7b6a243c3af524a0722&amp;file=ty_dezember.mp3">December - Christmas</a></td>
+<td class="midi">Tempo di valse</td>
+<td class="midi" nowrap>4:00</td>
+<td class="midi" nowrap>2008-09-28</td>
+<td nowrap>3.7 MB</td>
+</tr>
+</table>
+<div class="top"><a href="#top">Top</a></div><br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/deed.en"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png"></a>
+<br>
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+<license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/de/"/>
+</Work>
+</rdf:RDF>
+-->
+<br><br><hr><div class="signatur"><a href="midicoll.htm">Main page</a>
+|
+<a href="news.htm">News</a>
+|
+<a href="contact.htm">Contact</a>
+|
+<a href="guests.htm">Guestbook</a>
+|
+<a href="links.htm">Links</a>
+|
+<a href="search.htm">Search</a>
+|
+<a href="indeks.htm">Index</a>
+|
+<a href="sitemap.htm">Sitemap</a><br><br>Copyright © 1996-2016 by Bernd Krueger<br>
+
+Home:
+<a href="http://www.piano-midi.de">http://www.piano-midi.de</a><br></div>
+
+
+
+</td><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><strong>
+   Other languages
+ </strong><a href="mp3_d.php" class="
+   navi
+   ">
+  Deutsch
+ </a><br>---------<br><br><a href="impressum.htm" class="
+   navi
+   ">Imprint</a><br><a href="copy.htm" class="
+   navi
+   ">Copyright</a><br><br></div><br><div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-2741754398486474";
+google_ad_width = 125;
+google_ad_height = 125;
+google_ad_format = "125x125_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+</td></tr></table></body></html>
