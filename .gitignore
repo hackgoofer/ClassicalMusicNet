@@ -4,3 +4,5 @@
 Pop_Music_Midi
 readme_aws.txt
 push.sh
+Data/amclassical_*.mp3
+Data/wget.py
