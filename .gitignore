@@ -4,10 +4,12 @@
 Pop_Music_Midi
 # readme_aws.txt # pls dont ignore
 Data/wget.py
-Data/*.mp3
-Data/mp3
-Data/mp3_v2
-*.mp3 #just..all of them
+# Data/*.mp3
+Data/classical_piano_mp3s
+Data/classical_piano_wavs
+# Data/mp3_v2
+*.mp3 #just ignore all mp3 
+*.wav
 *.pyc
 *.tmp # wget is running and creates these .tmp files
 *.zip 
