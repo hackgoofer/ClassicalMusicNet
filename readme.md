@@ -2,11 +2,13 @@
 
 Let's define the problem space - 
    * Dataset: 
-     * We should find dataset that's classical music (ideally for a specific instrument - i.e., piano)
-     * http://piano-midi.de/midicoll.htm
-   
+     * I have finished parsing and finding data in the `Data/` folder. They have been added in .gitignore file
    * Framwork: Tensorflow (working off of wavenet implementation)
    * Architecture: Sequence to Sequence generation with Deep RNN and RBM
+   
+NextStep:
+   * We need to preprocess those files into their audio signals
+   * We need to setup training and get a good accuracy rate
    
 Goal: output unique net-generated music piece of classical piano music.
 
