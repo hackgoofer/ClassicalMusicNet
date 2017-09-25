@@ -1,8 +1,7 @@
-.sh
-.swp
-.swo
+*.sh
+*.swp
+*.swo
 Pop_Music_Midi
 readme_aws.txt
-push.sh
 Data/wget.py
 Data/*.mp3
